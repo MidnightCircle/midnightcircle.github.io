@@ -1,0 +1,79 @@
+/* Midnight Circle Theatre CSS styles */
+
+/*
+	==============================================================
+	   CSS root variables
+	==============================================================
+*/
+:root {
+    /* ============   General formatting   ============ */
+    --mct-header-bkg-col: #000000; /* Header background colour */
+    --mct-nav-bkg-col: #242121; /* Navigation background colour */
+    --mct-content-bkg-col: #242121; /* Content background colour */
+    --mct-footer-bkg-col: #000000; /* Footer background colour */
+    --mct-body-bkg-col: #000000; /* Body background colour */
+    --mct-header-txt-size: 30px; /* Header text size */
+    --mct-nav-txt-size: 20px; /* Header text size */
+    --mct-head-txt-col: #e6dddd; /* Heading text colour */
+    --mct-foot-txt-col: #e6dddd; /* Footer text colour */
+    --mct-link-txt-col: #74d8f3; /* Link text colour */
+    --mct-link-hover-txt-col: #e41919; /* Link hover text colour */
+}
+
+/*
+    Basic elements
+*/
+
+body {
+    font-family: Georgia;
+    background-color: var(--mct-body-bkg-col);
+}
+
+header {
+    background-color: var(--mct-header-bkg-col);
+    padding: 30px;
+    text-align: center;
+    font-size: var(--mct-header-txt-size);
+    color: var(--mct-head-txt-col);
+}
+
+/* Footer */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--mct-footer-bkg-col);
+    padding: 10px;
+    text-align: center;
+    color: var(--mct-foot-txt-col);
+}
+
+a {
+    text-decoration: none;
+    color: var(--mct-link-txt-col);
+}
+    a:hover {
+        color: var(--mct-link-hover-txt-col);
+    }
+
+.body-div {
+    width:60%;
+    margin:auto;
+}
+
+.span-img {
+    width:100%;
+}
+
+/* Responsive layout  */
+@media (max-width: 800px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .body-div {
+        width:100%;
+    }
+}
