@@ -13,6 +13,7 @@
     --mct-footer-bkg-col: #000000; /* Footer background colour */
     --mct-body-bkg-col: #000000; /* Body background colour */
     --mct-header-txt-size: 30px; /* Header text size */
+    --mct-header-mobile-txt-size: 24px; /* Mobile header text size */
     --mct-nav-txt-size: 20px; /* Header text size */
     --mct-head-txt-col: #e6dddd; /* Heading text colour */
     --mct-foot-txt-col: #e6dddd; /* Footer text colour */
@@ -68,9 +69,9 @@ a {
 
 /* Responsive layout  */
 @media (max-width: 800px) {
-    section {
-        -webkit-flex-direction: column;
-        flex-direction: column;
+    header {
+        padding: 20px;
+        font-size: var(--mct-header-mobile-txt-size);
     }
 
     .body-div {
