@@ -32,7 +32,7 @@ body {
 
 header {
     background-color: var(--mct-header-bkg-col);
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     font-size: var(--mct-header-txt-size);
     color: var(--mct-head-txt-col);
@@ -70,7 +70,7 @@ a {
 /* Responsive layout  */
 @media (max-width: 800px) {
     header {
-        padding: 20px;
+        padding: 10px;
         font-size: var(--mct-header-mobile-txt-size);
     }
 
