@@ -135,6 +135,17 @@ footer {
     font-size: var(--mct-foot-txt-size) !important;
 }
 
+.my-footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--mct-footer-bkg-col);
+    padding: 10px;
+    text-align: center;
+    color: var(--mct-foot-txt-col);
+    font-size: var(--mct-foot-txt-size) !important;
+}
+
 .body-div {
     width: 60%;
     margin: auto;
