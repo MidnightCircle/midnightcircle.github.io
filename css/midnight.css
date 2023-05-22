@@ -75,7 +75,8 @@ h2 {
         position: fixed;
         background-color: var(--mct-nav-bkg-col);
         width: var(--mct-content-width);
-        margin:auto;
+        margin: auto;
+        z-index: 500 !important;
     }
 
     .topnav a {
@@ -118,7 +119,7 @@ h2 {
 
 /* Footer */
 footer {
-    position: fixed;
+    position:sticky;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -129,8 +130,9 @@ footer {
 }
 
 .body-div {
-    width:60%;
-    margin:auto;
+    width: 60%;
+    margin: auto;
+    overflow-wrap:normal;
 }
 
 .span-img {
@@ -141,11 +143,26 @@ footer {
     text-align:center;
 }
 
+.bio {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
 /* Responsive layout  */
 @media (max-width: 800px) {
 
+    
+
     .body-div {
         width:100%;
+    }
+
+    .bio {
+        width:100%;
+        padding:20px;
     }
 
     .topnav {
