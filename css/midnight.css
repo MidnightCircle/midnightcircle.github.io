@@ -133,7 +133,7 @@ footer {
     padding: 10px;
     text-align: center;
     color: var(--mct-foot-txt-col);
-    font-size: var(--mct-foot-txt-size);
+    font-size: var(--mct-foot-txt-size) !important;
 }
 
 .body-div {
