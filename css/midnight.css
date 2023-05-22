@@ -8,17 +8,24 @@
 :root {
     /* ============   General formatting   ============ */
     --mct-header-bkg-col: #000000; /* Header background colour */
-    --mct-nav-bkg-col: #242121; /* Navigation background colour */
+    --mct-nav-bkg-col: #000000; /* Navigation background colour */
+    --mct-nav-hover-bkg-col: #ddd; /* Navigation hover background colour */
     --mct-content-bkg-col: #242121; /* Content background colour */
     --mct-footer-bkg-col: #000000; /* Footer background colour */
     --mct-body-bkg-col: #000000; /* Body background colour */
     --mct-header-txt-size: 26px; /* Header text size */
+    --mct-h1-txt-size: 26px; /* H1 text size */
+    --mct-h2-txt-size: 22px; /* H2 text size */
+    --mct-h3-txt-size: 18px; /* H3 text size */
+    --mct-h4-txt-size: 16px; /* H4 text size */
     --mct-header-mobile-txt-size: 20px; /* Mobile header text size */
-    --mct-nav-txt-size: 20px; /* Header text size */
+    --mct-nav-txt-size: 20px; /* Navigation text size */
+    --mct-body-txt-col: #e6dddd; /* Body text colour */
     --mct-head-txt-col: #e6dddd; /* Heading text colour */
-    --mct-foot-txt-col: #e6dddd; /* Footer text colour */
-    --mct-link-txt-col: #74d8f3; /* Link text colour */
+    --mct-foot-txt-col: #968787; /* Footer text colour */
+    --mct-link-txt-col: #e6dddd; /* Link text colour */
     --mct-link-hover-txt-col: #e41919; /* Link hover text colour */
+    --mct-content-width: 60%; /* Content width in desktop mode */
 }
 
 /*
@@ -28,15 +35,86 @@
 body {
     font-family: Georgia;
     background-color: var(--mct-body-bkg-col);
+    color: var(--mct-body-txt-col);
 }
 
-header {
-    background-color: var(--mct-header-bkg-col);
-    padding: 20px;
-    text-align: center;
-    font-size: var(--mct-header-txt-size);
-    color: var(--mct-head-txt-col);
+a {
+    text-decoration: none;
+    color: var(--mct-link-txt-col);
 }
+
+    a:hover {
+        color: var(--mct-link-hover-txt-col);
+    }
+
+
+h1 {
+    text-align:center;
+    font-size: var(--mct-h1-txt-size);
+    padding-bottom:20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: var(--mct-h2-txt-size);
+}
+
+/*
+    Burger menu
+*/
+.topnav {
+    overflow: hidden;
+    background-color: var(--mct-nav-bkg-col);
+    position: relative;
+    width: var(--mct-content-width);
+    margin: auto;
+}
+
+    .topnav #myLinks {
+        display: none;
+        position: fixed;
+        background-color: var(--mct-nav-bkg-col);
+        width: var(--mct-content-width);
+        margin:auto;
+    }
+
+    .topnav a {
+        color: var(--mct-link-txt-col);
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: var(--mct-nav-txt-size);
+        display: block;
+    }
+
+        .topnav a.icon {
+            background: var(--mct-nav-bkg-col);
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+        .topnav a:hover {
+            background-color: var(--mct-nav-hover-bkg-col);
+            color: black;
+        }
+
+.home-link {
+    font-weight: bold;
+}
+
+.my-container {
+    width:80%;
+    margin:auto;
+}
+
+.img-link {
+    cursor:default;
+}
+
+    .img-link:hover {
+        cursor:pointer;
+    }
 
 /* Footer */
 footer {
@@ -50,14 +128,6 @@ footer {
     color: var(--mct-foot-txt-col);
 }
 
-a {
-    text-decoration: none;
-    color: var(--mct-link-txt-col);
-}
-    a:hover {
-        color: var(--mct-link-hover-txt-col);
-    }
-
 .body-div {
     width:60%;
     margin:auto;
@@ -67,14 +137,22 @@ a {
     width:100%;
 }
 
+.links-box {
+    text-align:center;
+}
+
 /* Responsive layout  */
 @media (max-width: 800px) {
-    header {
-        padding: 10px;
-        font-size: var(--mct-header-mobile-txt-size);
-    }
 
     .body-div {
         width:100%;
     }
+
+    .topnav {
+        width: 100%;
+    }
+
+        .topnav #myLinks {
+            width: 100%;
+        }
 }
