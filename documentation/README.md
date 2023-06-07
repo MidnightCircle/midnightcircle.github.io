@@ -8,7 +8,7 @@
 + [Phase 4](#phase-4)
 
 ## Links
-+ [Home](#../README.md)
++ [Home](../README.md)
 
 <hr>
 
@@ -16,9 +16,9 @@
 
 + [Phase 1](#phase-1) 
    + *Develop site design as static HTML/CSS/JS pages hosted on GitHub*
-   + *Obtain domain name* and (if possible) map to GitHub site with HTTPS*
+   + *Obtain domain name and (if possible) map to GitHub site with HTTPS*
 + [Phase 2](#phase-2)
-   + *Use finalized site design as a template for local development of server-side website with database*
+   + *Use finalized site design as a template for local development of server-side website with [database](database.md)*
    + *Obtain SMTP (email) account for contact and mailing list (etc)* 
 + [Phase 3](#phase-3)
    + *Obtain server-side hosting capability and deploy software and database* 
@@ -81,7 +81,9 @@ It is suggested that the upcoming/past productions pages follow a generic format
 
 ## Phase 2
 
-Using finalized site design as a template for local development of server-side website with database. The proposed technology will be NodeJS (for server-side functionality) with either a MySQL or Mongo database (depending on suitability and whether we can use Mongo for free).
+Using finalized site design as a template for local development of server-side website with database. The proposed technology will be NodeJS (for server-side functionality) with either a MySQL.
+
+See [Database](database.md) for a proposed schema for the database.
 
 [Back to top](#site-documentation)
 
