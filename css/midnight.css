@@ -152,8 +152,14 @@ footer {
     overflow-wrap:normal;
 }
 
+.home-div {
+    padding-top:20px;
+    width:60%;
+    margin:auto;
+}
+
 .span-img {
-    width:100%;
+    width: 100%;
 }
 
 .links-box {
@@ -164,17 +170,18 @@ footer {
     width: 50%;
     margin: auto;
     padding: 10px;
-    text-align: justify;
     box-sizing: border-box;
 }
 
 /* Responsive layout  */
 @media (max-width: 800px) {
 
-    
-
     .body-div {
         width:100%;
+    }
+
+    .home-div {
+        width: 80%;
     }
 
     .bio {
