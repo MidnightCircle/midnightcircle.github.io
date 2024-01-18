@@ -60,6 +60,18 @@ h2 {
     font-size: var(--mct-h2-txt-size);
 }
 
+img {
+    width: 100%;
+}
+
+.page-content {
+    max-width: 1024px;
+    margin: auto;
+}
+
+.review-bar {
+    width:100%;
+}
 
 
 /*
