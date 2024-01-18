@@ -13,14 +13,11 @@
     --mct-content-bkg-col: #242121; /* Content background colour */
     --mct-footer-bkg-col: #000000; /* Footer background colour */
     --mct-body-bkg-col: #000000; /* Body background colour */
-    --mct-header-txt-size: 26px; /* Header text size */
-    --mct-h1-txt-size: 26px; /* H1 text size */
-    --mct-h2-txt-size: 22px; /* H2 text size */
-    --mct-h3-txt-size: 18px; /* H3 text size */
-    --mct-h4-txt-size: 16px; /* H4 text size */
-    --mct-header-mobile-txt-size: 20px; /* Mobile header text size */
-    --mct-nav-txt-size: 20px; /* Navigation text size */
-    --mct-foot-txt-size: 12px; /* Footer text size */
+    --mct-h1-txt-size: 18px; /* H1 text size */
+    --mct-h2-txt-size: 16px; /* H2 text size */
+    --mct-body-txt-size: 14px; /* Navigation text size */
+    --mct-nav-txt-size: 16px; /* Navigation text size */
+    --mct-foot-txt-size: 14px; /* Footer text size */
     --mct-body-txt-col: #e6dddd; /* Body text colour */
     --mct-head-txt-col: #e6dddd; /* Heading text colour */
     --mct-foot-txt-col: #968787; /* Footer text colour */
@@ -34,7 +31,8 @@
 */
 
 body {
-    font-family: Georgia;
+    font-family: 'Andada Pro', serif;
+    font-size: var(--mct-body-txt-size);
     background-color: var(--mct-body-bkg-col);
     color: var(--mct-body-txt-col);
 }
@@ -50,20 +48,25 @@ a {
 
 
 h1 {
-    text-align:center;
+    font-family: 'Cinzel Decorative';
+    text-align: center;
     font-size: var(--mct-h1-txt-size);
-    padding-bottom:20px;
+    padding-bottom: 20px;
 }
 
 h2 {
+    font-family: 'Cinzel Decorative';
     text-align: center;
     font-size: var(--mct-h2-txt-size);
 }
+
+
 
 /*
     Burger menu
 */
 .topnav {
+    font-family: 'Cinzel Decorative';
     overflow: hidden;
     background-color: var(--mct-nav-bkg-col);
     position: relative;
@@ -149,7 +152,7 @@ footer {
 .body-div {
     width: 60%;
     margin: auto;
-    overflow-wrap:normal;
+    overflow-wrap: normal;
 }
 
 .home-div {
