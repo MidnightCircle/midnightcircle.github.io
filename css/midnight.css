@@ -73,6 +73,20 @@ img {
     width:100%;
 }
 
+.link-bar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-item {
+    font-family: 'Cinzel Decorative';
+    text-align: center;
+    font-size: var(--mct-h2-txt-size);
+}
+
 
 /*
     Burger menu
