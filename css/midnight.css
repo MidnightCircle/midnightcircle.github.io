@@ -15,7 +15,7 @@
     --mct-body-bkg-col: #000000; /* Body background colour */
     --mct-h1-txt-size: 18px; /* H1 text size */
     --mct-h2-txt-size: 16px; /* H2 text size */
-    --mct-body-txt-size: 14px; /* Navigation text size */
+    --mct-body-txt-size: 16px; /* Body text size */
     --mct-nav-txt-size: 16px; /* Navigation text size */
     --mct-foot-txt-size: 14px; /* Footer text size */
     --mct-body-txt-col: #e6dddd; /* Body text colour */
@@ -85,6 +85,7 @@ img {
     font-family: 'Cinzel Decorative';
     text-align: center;
     font-size: var(--mct-h2-txt-size);
+    margin:10px;
 }
 
 
