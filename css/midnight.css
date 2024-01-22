@@ -26,6 +26,50 @@
     --mct-content-width: 60%; /* Content width in desktop mode */
 }
 
+@keyframes left-slider {
+    from {
+        margin-left: 100%;
+        opacity:0;
+    }
+
+    to {
+        margin-left: 0px;
+        opacity: 1;
+    }
+}
+
+@keyframes fader {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.slide-left {
+    animation-name: left-slider;
+    animation-duration: 1s;
+}
+
+.slide-left-delay {
+    opacity: 0;
+    margin-left: 100%;
+    animation-name: left-slider;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+
+.fade-in {
+    opacity: 0;
+    animation-name: fader;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
 /*
     Basic elements
 */
@@ -70,6 +114,7 @@ img {
 }
 
 .review-bar {
+    padding-left:5px;
     width:100%;
 }
 
@@ -84,7 +129,7 @@ img {
 .link-item {
     font-family: 'Cinzel Decorative';
     text-align: center;
-    font-size: var(--mct-h2-txt-size);
+    font-size: var(--mct-h1-txt-size);
     margin:10px;
 }
 
@@ -203,6 +248,10 @@ footer {
     box-sizing: border-box;
 }
 
+
+
+
+
 /* Responsive layout  */
 @media (max-width: 800px) {
 
@@ -221,6 +270,10 @@ footer {
     .bio {
         width:100%;
         padding:20px;
+    }
+
+    .link-item {
+        font-size: var(--mct-h2-txt-size);
     }
 
     .topnav {
