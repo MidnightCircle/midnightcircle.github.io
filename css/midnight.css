@@ -7,22 +7,22 @@
 */
 :root {
     /* ============   General formatting   ============ */
-    --mct-header-bkg-col: #000000; /* Header background colour */
-    --mct-nav-bkg-col: #000000; /* Navigation background colour */
+    --mct-header-bkg-col: #01081d; /* Header background colour */
+    --mct-nav-bkg-col: #01081d; /* Navigation background colour */
     --mct-nav-hover-bkg-col: #ddd; /* Navigation hover background colour */
-    --mct-content-bkg-col: #242121; /* Content background colour */
-    --mct-footer-bkg-col: #000000; /* Footer background colour */
-    --mct-body-bkg-col: #000000; /* Body background colour */
+    --mct-content-bkg-col: #01081d; /* Content background colour */
+    --mct-footer-bkg-col: #01081d; /* Footer background colour */
+    --mct-body-bkg-col: #01081d; /* Body background colour */
     --mct-h1-txt-size: 18px; /* H1 text size */
     --mct-h2-txt-size: 16px; /* H2 text size */
     --mct-body-txt-size: 16px; /* Body text size */
     --mct-nav-txt-size: 16px; /* Navigation text size */
     --mct-foot-txt-size: 14px; /* Footer text size */
-    --mct-body-txt-col: #e6dddd; /* Body text colour */
-    --mct-head-txt-col: #e6dddd; /* Heading text colour */
-    --mct-foot-txt-col: #968787; /* Footer text colour */
-    --mct-link-txt-col: #e6dddd; /* Link text colour */
-    --mct-link-hover-txt-col: #e41919; /* Link hover text colour */
+    --mct-body-txt-col: #eee2df; /* Body text colour */
+    --mct-head-txt-col: #eee2df; /* Heading text colour */
+    --mct-foot-txt-col: #eee2df; /* Footer text colour */
+    --mct-link-txt-col: #eee2df; /* Link text colour */
+    --mct-link-hover-txt-col: #eee2df; /* Link hover text colour */
     --mct-content-width: 60%; /* Content width in desktop mode */
 }
 
