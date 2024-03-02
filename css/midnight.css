@@ -80,6 +80,7 @@ body {
     font-size: var(--mct-body-txt-size);
     background-color: var(--mct-body-bkg-col);
     color: var(--mct-body-txt-col);
+    max-height: 999999px;
 }
 
 a {
