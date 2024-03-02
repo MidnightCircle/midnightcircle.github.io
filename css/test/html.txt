@@ -1,0 +1,2362 @@
+<html prefix="og: http://ogp.me/ns#" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths flexbox_with_new_check flexwrap_with_new_check mix-blend-mode" lang="en-GB" style=""><!--<![endif]--><head id="PageHead">
+
+    <!-- OptanonConsentNoticeStart -->
+    
+
+<!-- OptanonConsentNoticeEnd -->
+    
+    <!-- CookiePro Cookies Consent Notice start for rsc.org.uk -->
+<!-- OptanonConsentNoticeStart -->
+
+    
+
+<!-- OptanonConsentNoticeEnd -->
+<!-- CookiePro Cookies Consent Notice end for rsc.org.uk -->
+
+    <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="msapplication-config" content="none"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#EE3524">
+<!-- Added for iOS 14 update -->
+<meta name="facebook-domain-verification" content="3g5dt82ajf3vhz6hvy1y68pbqdzme4"><title>
+	Royal Shakespeare Company | RSC
+</title>
+        <!-- Open Graph -->
+        <meta property="og:title" content="Royal Shakespeare Company | RSC">
+        <meta property="og:image" content="https://cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/royal-shakespeare-theatre_-april-2017_2017_photo-by-david-tett-_c_-rsc_217832.tmb-gal-1340.jpg?sfvrsn=c9900121_1">
+    
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdn2.rsc.org.uk/sitefinity/website-assets-live/styles-min.css?sfvrsn=aa9a2921_542"><link rel="stylesheet" media="print" href="https://cdn2.rsc.org.uk/sitefinity/website-assets-live/print-min.css?sfvrsn=929a2921_6"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--[if lte IE 9]>
+            <link rel="stylesheet" href="https://cdn2.rsc.org.uk/sitefinity/website-assets-live/ie-min.css?sfvrsn=969a2921_20" /><link rel="stylesheet" href="https://cdn2.rsc.org.uk/sitefinity/website-assets-live/shop-ie-min.css?sfvrsn=ae9a2921_6" />
+        <![endif]-->
+
+    <!-- Vendor JS -->
+    <script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/31eb286a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/403093056830506?v=2.9.148&amp;r=stable&amp;domain=www.rsc.org.uk&amp;hme=20c913bdcd4be51a752120153aa5caaecb3ee86c7f26cf737846e40b202aba68&amp;ex_m=62%2C106%2C94%2C98%2C53%2C3%2C88%2C61%2C14%2C86%2C79%2C44%2C46%2C150%2C153%2C164%2C160%2C161%2C163%2C25%2C89%2C45%2C68%2C162%2C145%2C148%2C157%2C158%2C165%2C115%2C13%2C43%2C169%2C168%2C117%2C16%2C29%2C32%2C1%2C36%2C57%2C58%2C59%2C63%2C83%2C15%2C12%2C85%2C82%2C81%2C95%2C97%2C31%2C96%2C26%2C22%2C146%2C149%2C124%2C24%2C9%2C10%2C11%2C5%2C6%2C21%2C19%2C20%2C49%2C54%2C56%2C66%2C90%2C23%2C67%2C8%2C7%2C71%2C41%2C18%2C92%2C91%2C17%2C4%2C73%2C80%2C72%2C78%2C40%2C39%2C77%2C33%2C35%2C76%2C48%2C74%2C28%2C37%2C65%2C0%2C84%2C75%2C2%2C30%2C55%2C34%2C93%2C38%2C70%2C60%2C99%2C52%2C51%2C27%2C87%2C50%2C47%2C42%2C69%2C64%2C100%2C175%2C174%2C176%2C181%2C182%2C183%2C179%2C171%2C116%2C170%2C172%2C107%2C137%2C129%2C132%2C113%2C166%2C206%2C101%2C207%2C144%2C105%2C127%2C120%2C108" async=""></script><script src="https://connect.facebook.net/signals/config/148300129065509?v=2.9.148&amp;r=stable&amp;domain=www.rsc.org.uk&amp;hme=20c913bdcd4be51a752120153aa5caaecb3ee86c7f26cf737846e40b202aba68&amp;ex_m=62%2C106%2C94%2C98%2C53%2C3%2C88%2C61%2C14%2C86%2C79%2C44%2C46%2C150%2C153%2C164%2C160%2C161%2C163%2C25%2C89%2C45%2C68%2C162%2C145%2C148%2C157%2C158%2C165%2C115%2C13%2C43%2C169%2C168%2C117%2C16%2C29%2C32%2C1%2C36%2C57%2C58%2C59%2C63%2C83%2C15%2C12%2C85%2C82%2C81%2C95%2C97%2C31%2C96%2C26%2C22%2C146%2C149%2C124%2C24%2C9%2C10%2C11%2C5%2C6%2C21%2C19%2C20%2C49%2C54%2C56%2C66%2C90%2C23%2C67%2C8%2C7%2C71%2C41%2C18%2C92%2C91%2C17%2C4%2C73%2C80%2C72%2C78%2C40%2C39%2C77%2C33%2C35%2C76%2C48%2C74%2C28%2C37%2C65%2C0%2C84%2C75%2C2%2C30%2C55%2C34%2C93%2C38%2C70%2C60%2C99%2C52%2C51%2C27%2C87%2C50%2C47%2C42%2C69%2C64%2C100" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-750515662&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2ZDT4Q7PY2&amp;l=dataLayer&amp;cx=c"></script><script src="https://rules.quantcount.com/rules-p-xCrSN01WZDq0U.js" async=""></script><script src="https://www.youtube.com/player_api"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGRB5D"></script><script src="https://cdn2.rsc.org.uk/sitefinity/website-assets/js/vendor/vendor-head731f51ee74f76138967eff00002337f7.js?sfvrsn=c00d2a21_8"></script><link rel="shortcut icon" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/favicon.ico" type="image/x-icon"><link rel="icon" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="60x60" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cdn.rsc.org.uk/sitefinity/images/rsc/icons/apple-touch-icon-180x180.png"><script>
+/*
+$(window).load(function() {
+try {
+var dToday = new Date();
+if (dToday.getFullYear() == 2017) {
+if (dToday.getMonth() == 6) {
+if (dToday.getDate() == 27) {
+$("#rsc-main-page-logo").css("position","absolute").css("top","0px").fadeOut(800);
+$("#rsc-main-page-logo-rainbow").css("position","absolute").css("top","0px").fadeIn(800);
+}
+}
+}
+} catch (e) { console.log(e); }
+});
+*/
+</script>
+        <!-- Cookie and old browser prompts -->
+        <script src="/RSC/js/pagepopupboxes.js"></script>
+    
+        <script>
+            var appInsights = window.appInsights || function (config) {
+                function i(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = "AuthenticatedUserContext", h = "start", c = "stop", l = "Track", a = l + "Event", v = l + "Page", y = u.createElement(o), r, f; y.src = config.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"; u.getElementsByTagName(o)[0].parentNode.appendChild(y); try { t.cookie = u.cookie } catch (p) { } for (t.queue = [], t.version = "1.0", r = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; r.length;) i("track" + r.pop()); return i("set" + s), i("clear" + s), i(h + a), i(c + a), i(h + v), i(c + v), i("flush"), config.disableExceptionTracking || (r = "onerror", i("_" + r), f = e[r], e[r] = function (config, i, u, e, o) { var s = f && f(config, i, u, e, o); return s !== !0 && t["_" + r](config, i, u, e, o), s }), t
+            }({
+                instrumentationKey: "b58cfddb-61d8-4eee-b559-ea1f9c5109e2"
+            });
+            window.appInsights = appInsights;
+            appInsights.trackPageView();
+        </script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    <!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WGRB5D');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Start Quantcast Tag -->
+    <script type="text/javascript">
+        window._qevents = window._qevents || [];
+        (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        window._qevents.push({
+            "qacct": "p-xCrSN01WZDq0U",
+            "labels": "_fp.event.RSC Stratford Landing Page"
+        });
+    </script>
+<!-- End Quantcast tag --><script type="text/javascript" src="https://cdn2.rsc.org.uk/sitefinity/website-assets/js/countdown.js?sfvrsn=8"></script><meta name="Generator" content="Sitefinity 11.0.6741.0 OME"><link rel="canonical" href="https://www.rsc.org.uk"><meta name="description" content="We perform plays by Shakespeare, his contemporaries and by today’s writers in Stratford-upon-Avon, London and on tour."><a id="NOjixgyCi3"></a><script async="" src="https://static.hotjar.com/c/hotjar-1468248.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.84f80a92c39bbd76564a.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="A4oIpR6f5aUXFRMbL6t6qaMk4lrHWxcV3DcrzORsA9sEsIk1FBRMFzzhfMNLuUpokZH40FV8s7iiXtt/729v8A4AAACFeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiQXR0cmlidXRpb25SZXBvcnRpbmdDcm9zc0FwcFdlYiIsImV4cGlyeSI6MTcxNDUyMTU5OSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/750515662/?random=1709378214980&amp;cv=11&amp;fst=1709378214980&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be42t1z871450735za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.rsc.org.uk%2F&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;label=reptCLymgpoCEM7r7-UC&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Royal%20Shakespeare%20Company%20%7C%20RSC&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;auid=301733940.1705574105&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B122.0.6261.95%7CNot(A%253ABrand%3B24.0.0.0%7CGoogle%2520Chrome%3B122.0.6261.95&amp;uamb=0&amp;uap=Windows&amp;uapv=10.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;rfmt=3&amp;fmt=4"></script></head>
+<body>
+
+    <!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGRB5D" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+
+
+    
+
+    
+
+    <form method="post" action="./" id="dotNetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl16_TSM" id="ctl16_TSM" value=";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:11857c8b-de5a-4483-8688-460a66797c2c:ea597d4b:b25378d2;Telerik.Sitefinity.Personalization.Impl, Version=11.0.6741.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en-US:c5772188-b4ca-496a-b1ad-f2d61a05413a:ee52b440">
+<input type="hidden" name="ctl17_TSSM" id="ctl17_TSSM" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="kltTzyjsNuxnRWFHuKmeEs44Aankf0eUxmPXiXKuJswoiStWDpRDD0CNrzEGI8T/I5QpkgOuAL5FDRMOGnep1lmy0pEutwEXzTnqMZ5wS2rKY8A698i9N4Lw0iJSM3vaNBTKIRxOMCN2hLPssizdxVBYsrC9H435YoWAu2QxAVwO7AT6T5Ubo15XTnCpUWrzf5SZeQavPSb/7GQv631av6i7Yvq6FhMlIXcsIQzyE03lXbwmfdAU5MRw9D6hSyjIqbkgz63rad51te24jkrFOKk7Eg4zsSYZ3zAKLfjC0g0NzgABzLePix0CJ+WEGON7w9TekJYm6Ym4cLxiPmr4fi5FSLp6ts6UMIxV3rlposI+nO9eL566mfF8C2pLESbzxvW1ofIN0rf0xBod3H7rnihy/7IhIdlXwu38CPrk4J0teODKe1wAOE+rk3bnrmC2XEGq+aPyMvFd1NpRqWpWQ47sv3Lbi67tbUY6edVZERsLazSxRJCUInt2F93N7ZsF+ufR/ePKeWXNC7BtxwL5fK1oIcHobk+fIxIMuiW/+FJfAs/e73kiKSL77GmLvYP+02DZcLy6CitB1Wjl2MsYY2KtkVZgY9zIRHIE4zxcwDrQZTwXP2PExyb06Hya5LwgwzOHoBy0XcxM2GCB4rLmkWYEBjmLEmDd4SMWmuyU9cw1uqFMepyHke3jze9pDD1z/abPypor4wS/tubCINh2NMkrOMUzmxeHssb7/tl4VekUJ1PNQV/BiizTZopPhVty7BLFI3NVr2wF9V4Oh7iKbgq2uo4cNYyZijqja46lauV4GWPger69196OeaAv6gt5SPC5rpw5Zj5Zu7w3WGpzEcoHPRTitg823KF+sHHAYFlMIJziu/nHE7juJCX2yFo7C9e7MEfVBmU0kLn28m54vD3IAFnqVnsPCV23s6+BZeZsnFtHQK7kSvRFArxS6pZqFrwxO2b/ILIUlFaE+wOXnUGMQolZoMEFRp10PSuw18pTF0sTN29v5UdRLstJxfkHrjePIVC/r4BbE2odtbqBVnxdIc3ueG1q1pgrwfgxj9vb/uoiFXVrcktrI9/mGROx6XpZYpBYfi9M29rjRfJ1Mhr5wIi0ctz9oGTTY28tnch3H9xV0hmLoCdC3JhTg9fG6QzAJiQQ9nGiQtb+ylN0r7o7Sne9IbM8uPQdacW1Rbk6W8TGcwoPM81DNhK5aoMonFbBWVTGruT49q5DNGGHPtsweq6AhycAN4gn6jXXQYBuCl0ReDVMK/EXBNK69ByyI6Fjgv7uhD260i7vFLTi2hB2CA42H3XsYwWZvN9EMCXPMI/G4JMHiXCCABz8xk7uuVoICNqGzgGaMXWm77fnO+A94AwHgkzjlBp8XmTzT+uHEk2VYN3KNRjpLfd5qTCaiVD0zNBGy4DytDb9erkAX6VdqmSOU8sJj/FQU+TOaPlw1CWCmbyFMdEHPbkUahdUFXVE6E/OpM++lXd2dzgzOImnqCrJ3ckpMKTieJ7zDTR4QCVaHXeXGstP3udVDqF75qTDOaj8GX9OLmToD555IXy5PBX35vvxcVtI1PDkXRbyxXyD8GbaR+hRaGZup17OqIv0xazC0E3qH7oCkODwysoRJN9jy2LdAWORztenw6BjjvGeLrUyo8PblsbUhGWXueO9oh1IxEDaTh3KcxhWMp+bpKnIT1U9OuFO77SRh+uZ+ojtbpChRc+6td3Qu0Ch3s5jJCPxULy+2TPnI5qLxcDLfDhce3YYdLGKAcNamICrw8KLboVDV/OgPWMsxw/dRS7LMvbhea5p29WQYZR3AA1nvaicNt8OMxXLUL91IU9W3IIC21BXbnpJmfbzxZw9lEF/DLTATmVfBMbPCui0Aps/kmJlnT5J74vpGDudNqEQpALoMxR+YeLwGxN9qmojtNtaspJOhLXqdyyAJc7Z17Jqw08sDMsanmm0J1tWLF8e1v/6JdGQsNWAtMwSVK/TR6mQ1T1LmRLpMLyc5YZJLwdSN/xCgyNv/CRMGMQwBmRMbJQd">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['dotNetForm'];
+if (!theForm) {
+    theForm = document.dotNetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKj_GXkxmDVRj_j3G5inTdz8FO0nUI9Ve9U79LUKTPblzA3i3Q2&amp;t=638369071540000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=yAZznlIeaGQJz8qTi4uqDVO_24i0z0npQ9vFjcp5pxe-9exMQSAIH3XujKqA6ZYgXl09sfp5svjyRw58q4enm0yTYE6J_guiPzQbEr-nqP4xMABRvxGMv8sw7MIqPYINBPG6qSl_F3U8pNJ9rSLu8s1OQ3k1&amp;t=637202888120000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl16_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3a11857c8b-de5a-4483-8688-460a66797c2c%3aea597d4b%3ab25378d2%3bTelerik.Sitefinity.Personalization.Impl%2c+Version%3d11.0.6741.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3ac5772188-b4ca-496a-b1ad-f2d61a05413a%3aee52b440" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="990F8053">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl16', 'dotNetForm', [], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl00$ctl16" id="ctl16">
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl16", "ctl00$ctl00$ctl16");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+
+        <div id="timerModal" class="timer-modal" style="display: none;">
+            <div class="timer-modal-content">
+                <span class="close" title="close">×</span>
+                <p id="expiryMessage" style="margin-top: 20px"></p>
+            </div>
+        </div>
+
+        <div class="container header-container">
+            <header id="globalHeader">
+
+                
+                <div class="header-top">
+
+                    <noscript>
+                        <div class="basket-tools" style="margin-top: 0; margin-bottom: 1rem; float: left; width: 100%; background-color: 464841; color: white; text-align: center;">
+                            Unfortunately we cannot guarantee support for browsers with Javascript disabled, you may experience some difficulties using this website. Please enable Javascript, for help please visit <a href="https://www.whatismybrowser.com/guides/how-to-enable-javascript/" target="_blank" class="on-dk-gray">here</a>.
+                        </div>
+                    </noscript>
+
+                    
+                    
+                    
+                    
+
+                    <div class="header-top-inner">
+                        
+                            <h1 class="logo">
+                                <a href="/">
+                                    <img id="rsc-main-page-logo" src="https://cdn.rsc.org.uk/sitefinity/images/rsc/rsc_logo.tmb-logo-98x75.png" srcset="https://cdn.rsc.org.uk/sitefinity/images/rsc/rsc_logo.tmb-logo-200.png 2x" alt="Royal Shakespeare Company">
+<!--<img id="rsc-main-page-logo-rainbow" src="https://cdn.rsc.org.uk/sitefinity/images/rsc/rsc_logo_rainbow.tmb-logo-98x75.png" srcset="https://cdn.rsc.org.uk/sitefinity/images/rsc/rsc_logo_rainbow.tmb-logo-200.png 2x" alt="Royal Shakespeare Company" style="display: none;" />
+-->
+                                </a>
+                            </h1>
+                        
+
+
+
+                        
+                   
+                            <div class="bid-logo">
+                                <a href="/support/make-a-donation/">
+
+                          
+        <img id="DonationGIF1" src="https://cdn2.rsc.org.uk/sitefinity/images/miscellaneous/rsc-grey-button-1.jpg?sfvrsn=d5518521_4" alt="RSC-Donate-button_V4"> 
+        <img id="DonationGIF2" src="https://cdn2.rsc.org.uk/sitefinity/images/miscellaneous/rsc-grey-button-2.jpg?sfvrsn=74d9121_8" alt="RSC-Donate-button_V4"> 
+
+        <style type="text/css">
+                        /* By default, show only the first image */
+        #DonationGIF1, #DonationGIF2 {
+        position: absolute; /* Positioning them absolute so they stack on top of each other */
+        top: 0;
+        left: 0;
+        }
+
+        #DonationGIF2 {
+        opacity: 0; /* Hiding the second image by setting its opacity to 0 */
+        pointer-events: none; /* This way it doesn't interfere with mouse events */
+        }
+
+            /* When hovering over DonationGIF1, show DonationGIF2 by increasing its opacity */
+        #DonationGIF1:hover + #DonationGIF2 {
+        opacity: 1;
+        }
+
+/*Hover element ending*/
+                                    </style>
+                                        
+                                        
+                                </a>
+                            </div>
+                        
+                        
+                        
+
+
+                        <div class="timer-outer" style="display: none;">
+                            <div class="smaller" id="timer-details">
+                            </div>
+                        </div>
+
+                        <div class="basket-icon-holder" style="display: none;">
+                            <img src="https://cdn2.rsc.org.uk/sitefinity/images/rsc/icons/basket-915116554.svg?sfvrsn=3f9aaf21_2" class="basket-icon">
+                                <div class="timer-outer-mbl">
+                                    <div class="smaller" id="timer-details-mbl">
+                                    </div>
+                                </div>
+                        </div>
+
+                        <!-- Old Timer Markup -->
+                        
+                        <div class="login-search"><div id="MobileTopLevelLogin" class="">
+
+            <div id="TopLevelLoginPanel" class="login-link">
+	
+                <ul>
+                   
+
+                    
+                            <li>
+                                <a id="LoginLink" class="reverse" href="https://secure.rsc.org.uk/account/update">Account</a>
+                            </li>
+                        
+
+                    <li>
+                        <a href="https://secure.rsc.org.uk/cart/details" class="basketLiteral reverse">Basket</a>
+                    </li>
+
+                    
+
+                </ul>
+            
+</div>
+        </div>
+                            <div class="search-button">
+                                <a class="search-open" href="#">
+                                    <img src="https://cdn.rsc.org.uk/sitefinity/website-assets/icons/search_icon.svg" alt="Search"></a>
+                            </div>
+
+                            
+                                <div class="sit-logo">
+                                    <!--<a href="/stitch-in-time">
+                                        <img src="https://cdn2.rsc.org.uk/sitefinity/images/stitch-in-time/rsc_sit_nav.png?sfvrsn=2" alt=""></a>
+                                    -->
+                                </div>
+                        </div>
+                        <div class="sit-logo-mobile">
+                            
+                        
+
+                        </div>
+                        <div id="menuButton" class="menu-button mb-active" title="Click for Menu">
+                            <div class="burger-holder" id="burgerHolder">
+                                <div class="circle">
+                                    <span class="burger cross"><span class="middle"></span></span>
+                                </div>
+                                <div class="menu-label"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <nav id="globalNav" class="nav-hide nav-down" role="navigation">
+                    <div class="subnav-bkgrnd"></div>
+                    <ul class="search-nav">
+                        <li><div id="MobileTopLevelLogin" class="">
+
+            <div id="TopLevelLoginPanel" class="login-link">
+	
+                <ul>
+                   
+
+                    
+                            <li>
+                                <a id="LoginLink" class="reverse" href="https://secure.rsc.org.uk/account/update">Account</a>
+                            </li>
+                        
+
+                    <li>
+                        <a href="https://secure.rsc.org.uk/cart/details" class="basketLiteral reverse">Basket</a>
+                    </li>
+
+                    
+
+                </ul>
+            
+</div>
+        </div></li>
+                        <li>
+                            <a href="" class="search-open">
+                                <svg viewBox="-287 410.9 21 21" enable-background="new -287 410.9 21 21">
+                                    <title>
+                                            Search the site
+                                        </title>
+                                    <g transform="translate(-277.000000, -354.000000)">
+                                        <g transform="translate(194.000000, 345.000000)">
+                                            <path class="search-vector" d="M-189.7 428.9c0 3-2.4 5.4-5.4 5.4s-5.4-2.4-5.4-5.4 2.4-5.4 5.4-5.4S-189.7 425.9-189.7 428.9L-189.7 428.9zM-183.5 438.9c0-0.4-0.2-0.8-0.4-1.1l-4.1-4.1c1-1.4 1.5-3.1 1.5-4.8 0-4.7-3.8-8.5-8.5-8.5s-8.5 3.8-8.5 8.5 3.8 8.5 8.5 8.5c1.7 0 3.4-0.5 4.8-1.5l4.1 4.1c0.3 0.3 0.7 0.5 1.1 0.5C-184.2 440.4-183.5 439.7-183.5 438.9L-183.5 438.9z"></path>
+                                        </g>
+                                    </g>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="top-level">
+                        <li>
+<a class="top-level-link nodrop" href="/whats-on/">
+What's On &amp; <span>Book Tickets</span>
+</a>
+</li>
+<li>
+<a title="Your Visit and Access" class="top-level-link" href="#">Your Visit <span>
+&amp; Access</span></a>
+<div class="subnav-item visiting-nav">
+<ul class="subnav-list">
+    <li class="main-link">
+    <a title="Your Visit" href="/your-visit/"><strong>Your Visit</strong></a></li>
+    <li><a title="Getting Here" href="/your-visit/getting-here/">Getting Here</a></li>
+    <li><a title="Access Information" href="/your-visit/access/">Access Information</a></li>
+    <li><a title="Our Theatres" href="/your-visit/our-theatres/">Our Theatres</a></li>
+    <li><a title="Restaurant, cafes and bars" href="/restaurant-cafes-bars/">Restaurant, cafes and bars</a></li>
+    <li><a href="/rooftop-restaurant">Rooftop Restaurant</a></li>
+    <li><a title="Seating plans" href="/our-theatres/seating-plans">Seating plans</a></li>
+    <li><a href="/your-visit/groups">Groups</a></li>
+    <li><a title="Shakespeare's Stratford" href="/your-visit/shakespeares-stratford/">Shakespeare's Stratford</a></li>
+    <li><a title="Places to stay in Stratford" href="/your-visit/places-to-stay-in-stratford-upon-avon/">Places to stay in Stratford</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a title="Membership and Support" class="top-level-link" href="#">
+Membership <span>&amp; Support</span>
+</a>
+<div class="subnav-item membership-nav">
+<ul class="subnav-list">
+    <li class="main-link">
+    <a title="Membership and Support" href="/support/"><strong>Membership &amp; Support</strong></a></li>
+    <li class="main-link"><a href="/support/become-a-member-supporter/priority-booking">Priority Booking</a></li>
+    <li><a title="Membership and Support Levels" href="/support/become-a-member-supporter">Become a Member or Supporter</a></li>
+    <li><a title="Give the gift of priority booking" href="/support/gift-membership">Gift Memberships</a></li>
+    <li><a title="RSC £10 Tickets supported by TikTok" href="/support/rsc-10-tickets-supported-by-tiktok">RSC £10 Tickets</a></li>
+    <li><a title="RSC America" href="/support/rsc-in-america/">RSC America</a></li>
+    <li><a title="RSC Friends" href="/support/friends/">RSC Friends</a></li>
+    <li><a href="/support/name-a-seat-in-the-swan-theatre">Name a seat in the Swan Theatre</a></li>
+    <li><a title="Leave a gift in your will" href="/support/legacy-giving/">Leave a gift in your will</a></li>
+    <li><a title="Corporate opportunities" href="/support/corporate-opportunities/">Corporate opportunities</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a title="About Shakespeare" class="top-level-link" href="#">About Shakespeare</a>
+<div class="subnav-item shakespeare-nav">
+<ul class="subnav-list">
+    <li class="main-link">
+    <a title="About Shakespeare" href="/shakespeare/"><strong>About Shakespeare</strong></a>
+    </li>
+    <li><a title="Shakespeare's Plays (A to Z)" href="/shakespeare/shakespeares-plays/">Shakespeare's Plays (A to Z)</a></li>
+    <li><a title="Tragedies, comedies, histories" href="/shakespeares-plays/tragedies-comedies-histories">Tragedies, comedies, histories</a></li>
+    <li><a title="Timeline of Shakespeare's plays" href="/shakespeares-plays/histories-timeline/timeline">Timeline of Shakespeare's plays</a></li>
+    <li><a href="/shakespeares-plays/famous-quotes">Famous quotes</a></li>
+    <li><a title="Shakespeare's Language" href="/shakespeare/language/">Shakespeare's Language</a></li>
+    <li><a title="Shakespeare's Life and Times" href="/shakespeares-life-and-times/">Shakespeare's Life and Times</a></li>
+</ul>
+</div>
+</li>
+<li class="shop-nav-link">
+<a href="https://shop.rsc.org.uk/">Shop</a>
+</li>
+<li><a title="Learn" class="top-level-link" href="#">Learn</a>
+<div class="subnav-item education-nav">
+<ul class="subnav-list">
+    <li class="main-link"><a title="Learn" href="/education/"><strong>Learn</strong></a></li>
+    <li><a href="/learn/schools-and-teachers">Schools and Teachers</a></li>
+    <li><a href="/learn/young-people">Young People</a></li>
+    <li><a href="/learn/universities">Universities</a></li>
+    <li><a title="Shakespeare Learning Zone" href="https://www.rsc.org.uk/shakespeare-learning-zone/">Shakespeare Learning Zone</a></li>
+    <li><a title="Associate Schools Programme" href="/learn/associate-schools-programme">Associate Schools Programme</a></li>
+    <li><a title="Frequently Asked Questions" href="https://www.rsc.org.uk/education/about-rsc-education/faq" class="" target="">Frequently Asked Questions</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a title="About Us" class="top-level-link" href="#">About Us</a>
+<div class="subnav-item about-nav">
+<ul class="subnav-list">
+    <li class="main-link">
+    <a title="About Us" href="/about-us/"><strong>About Us</strong></a>
+    </li>
+    <li><a title="News and Updates" href="/news/">News, Features &amp; Updates</a></li>
+    <li><a href="/video">Video</a></li>
+    <li><a title="Blogs" href="/blogs/">Blogs</a></li>
+    <li><a title="Who's Who" href="/about-us/whos-who/">Who's Who</a></li>
+    <li><a title="History" href="/about-us/key-dates/">History</a></li>
+    <li><a title="New Plays and Writers" href="/about-us/new-plays-and-writers/">New Plays and Writers</a></li>
+    <li><a title="How We Make Theatre" href="/about-us/how-we-make-theatre/">How We Make Theatre</a></li>
+    <li><a title="Collections and Archives" href="/about-us/history/rsc-collection">Collections and Archives</a></li>
+</ul>
+</div>
+</li>
+                        <li class="lang_link">
+                            <a href="#" class="top-level-link">
+                                <svg id="Globe_1" x="0px" y="0px" viewBox="-69 270 420 420" enable-background="new -69 270 420 420" title="Language">
+                                    <style type="text/css">
+                                        .globe {
+                                            fill: none;
+                                            stroke: #464841;
+                                            stroke-width: 20;
+                                            stroke-linecap: round;
+                                        }
+                                    </style>
+                                    <path class="globe" d="M140 280.5c-110.5 0.6-199.5 90.6-199 201 0.6 110.5 90.6 199.5 201 199 110.5-0.6 199.5-90.6 199-201 -0.6-109.7-89.3-198.4-199-199H140zM141 280.5v400M341 480.5H-59M-13.9 357.4c92.7 66.1 215.7 64.1 309.7 0M295.9 603.6c-94-68.6-215.7-70.6-309.7 0M125.6 285.6C17.4 377 3.8 538.8 95.2 647c9.3 11 19.5 21.2 30.5 30.5M156.4 677.4c108.2-91.4 121.8-253.1 30.5-361.3 -9.3-11-19.5-21.2-30.5-30.5"></path>
+                                </svg>
+                            </a>
+                            <div class="subnav-item about-nav">
+                                <ul class="subnav-list">
+                                    <li class="main-link">
+                                        <a href="#">
+                                            <svg id="Globe_2" x="0px" y="0px" viewBox="-69 270 420 420" enable-background="new -69 270 420 420">
+                                                <style type="text/css">
+                                                    .globe {
+                                                        fill: none;
+                                                        stroke: white;
+                                                        stroke-width: 20;
+                                                        stroke-linecap: round;
+                                                    }
+                                                </style>
+                                                <path class="globe" d="M140 280.5c-110.5 0.6-199.5 90.6-199 201 0.6 110.5 90.6 199.5 201 199 110.5-0.6 199.5-90.6 199-201 -0.6-109.7-89.3-198.4-199-199H140zM141 280.5v400M341 480.5H-59M-13.9 357.4c92.7 66.1 215.7 64.1 309.7 0M295.9 603.6c-94-68.6-215.7-70.6-309.7 0M125.6 285.6C17.4 377 3.8 538.8 95.2 647c9.3 11 19.5 21.2 30.5 30.5M156.4 677.4c108.2-91.4 121.8-253.1 30.5-361.3 -9.3-11-19.5-21.2-30.5-30.5"></path>
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/chinese/">欢迎光临</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/french/">Bienvenue</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/german/">Willkommen</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/italian/">Benvenuto</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/japanese/">ようこそ</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/polish/">Witamy</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/portuguese/">Bem-vindo</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/russian/">Добро пожаловать</a>
+                                    </li>
+                                    <li>
+                                        <a href="/welcome/spanish/">Inicio</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+
+                
+                <div class="global-search-box">
+                    <div class="close-holder">
+                        <div class="close-btn">Close</div>
+                    </div>
+                    <div class="form-holder">
+                        <div class="fieldset-holder">
+                            <fieldset>
+                                <input id="globalSearchInput" type="search" placeholder="Search for anything...">
+                            </fieldset>
+                        </div>
+                        <div class="fieldset-holder">
+                            <fieldset>
+                                <div class="button-holder">
+                                    <a id="globalSearchButton" class="button-link gray-btn" href="/search?q=">Search</a>
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+
+            </header>
+        </div>
+
+        <div class="container main-container">
+            
+
+    <main id="content" class="group" role="main">
+               
+        <article class="homepage">
+
+            <header>
+
+                
+<span id="MainContainer_HeaderContainer_C551">
+<script src="https://cdn2.rsc.org.uk/sitefinity/website-assets/js/countdown.js?sfvrsn=8"></script>
+<script>
+    /// Get Date for Countdown
+    var today = new Date();
+    var dd = String(today.getDate()).padStart(2, '0');
+    var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+    var yyyy = today.getFullYear();
+    var today = yyyy + '-' + mm + '-' + dd + ' 12:00';
+    var activetickets = yyyy + '-' + mm + '-' + dd + ' 23:59';
+
+    /// Apply date & beautify
+    $(document).ready(function () {
+
+        /// TICKET COUNTDOWN
+
+        document.getElementById("countdown").setAttribute("data-countdownto", today);
+        var $countdown = $('#countdown');
+        if ($countdown.length) {
+
+            var eventTime = moment($countdown.data("countdownto"), 'YYYY-MM-DD HH:mm').unix(),
+                currentTime = moment().unix(),
+                diffTime = eventTime - currentTime,
+                duration = moment.duration(diffTime * 1000, 'milliseconds'),
+                interval = 1000;
+
+            if (diffTime > 0) {
+
+                var $d = $countdown.find(".days"), $h = $countdown.find(".hours"),
+                    $m = $countdown.find(".minutes"), $s = $countdown.find(".seconds");
+
+                setInterval(function () {
+
+                    duration = moment.duration(duration.asMilliseconds() - interval, 'milliseconds');
+
+                    var d = Math.floor(moment.duration(duration).asDays()),
+                        h = moment.duration(duration).hours(),
+                        m = moment.duration(duration).minutes(),
+                        s = moment.duration(duration).seconds();
+
+                    d = $.trim(d).length === 1 ? '0' + d : d;
+                    h = $.trim(h).length === 1 ? '0' + h : h;
+                    m = $.trim(m).length === 1 ? '0' + m : m;
+                    s = $.trim(s).length === 1 ? '0' + s : s;
+
+                    $d.text(d); $h.text(h); $m.text(m); $s.text(s);
+
+                }, interval);
+            }
+        }
+
+        /// ACTIVE TICKETS COUNTDOWN
+        document.getElementById("activecountdown").setAttribute("data-activecountdownto", activetickets);
+        var $activecountdown = $('#activecountdown');
+        if ($activecountdown.length) {
+
+            var eventTime = moment($activecountdown.data("activecountdownto"), 'YYYY-MM-DD HH:mm').unix(),
+                acurrentTime = moment().unix(),
+                adiffTime = eventTime - acurrentTime,
+                aduration = moment.duration(adiffTime * 1000, 'milliseconds'),
+                ainterval = 1000;
+
+            if (adiffTime > 0) {
+
+                var $activeticketsd = $activecountdown.find(".days"), $activeticketsh = $activecountdown.find(".hours"),
+                    $activeticketsm = $activecountdown.find(".minutes"), $activeticketss = $activecountdown.find(".seconds");
+
+                setInterval(function () {
+
+                    aduration = moment.duration(aduration.asMilliseconds() - ainterval, 'milliseconds');
+
+                    var activeticketsd = Math.floor(moment.duration(aduration).asDays()),
+                        activeticketsh = moment.duration(aduration).hours(),
+                        activeticketsm = moment.duration(aduration).minutes(),
+                        activeticketss = moment.duration(aduration).seconds();
+
+                    activeticketsd = $.trim(activeticketsd).length === 1 ? '0' + activeticketsd : activeticketsd;
+                    activeticketsh = $.trim(activeticketsh).length === 1 ? '0' + activeticketsh : activeticketsh;
+                    activeticketsm = $.trim(activeticketsm).length === 1 ? '0' + activeticketsm : activeticketsm;
+                    activeticketss = $.trim(activeticketss).length === 1 ? '0' + activeticketss : activeticketss;
+
+                    $activeticketsd.text(activeticketsd); $activeticketsh.text(activeticketsh); $activeticketsm.text(activeticketsm); $activeticketss.text(activeticketss);
+
+                }, ainterval);
+            }
+        }
+
+        /// Countdowns over
+       
+
+        var date = new Date();
+        var day = date.getDay();
+        var time = date.getHours();
+
+        var forceDisplayMessage = false;
+        var forceDisplay = false;
+
+        // Rush WMR banner - removing button spacing
+        //$(".rush-wmr-50").find("br").hide();
+
+        if (day == 5 && (time >= 9 && time <= 11)) {
+            $('.countdown').show();
+            $('.performance-list-holder').show();
+            $('.no-countdown').hide();
+            $(".pl-btn-holder > .buy-btn").hide();
+        }
+        else if (day == 5 && time >= 12 && time <= 23) {
+            $('.countdown').hide();
+            $('.no-countdown').show();
+            $(".pl-btn-holder > .buy-btn").show();
+            $('.performance-list-holder').show();
+        }
+        /*   || 15/02/22 No longer required with new Rush On Sale timings 12:00 - 23:59
+        else if (day == 2 && time >= 12 && time <= 23) {
+            $('.rush-over').show();
+            $('.countdown').hide();
+            $('.no-countdown').hide();
+            $('.performance-list-holder').hide();
+        }
+        */
+        else {
+            $('.countdown').hide();
+            $('.no-countdown').hide();
+            $('.performance-list-holder').hide();
+            //$(".pl-btn-holder > .buy-btn").hide();
+        }
+
+        // Hide button on this page
+        $(".countdown").find(".button-link").hide();
+        $(".no-countdown").find(".button-link").hide();
+
+        // force display the buttons
+        if (forceDisplay) {
+            $(".pl-btn-holder > .buy-btn").show();
+            $(".no-countdown").show();
+        }
+
+        // Internal preview mode shows buy buttons!
+        if (window.location.href.indexOf("Action/Preview") > 0) {
+            $(".pl-btn-holder > .buy-btn").show();
+        }
+
+    });
+</script>
+<!-- START Countdown Banner -->
+<div class="hp-banner-outer countdown black-bkgrnd" style="display: none;">
+    <section class="hp-banner" style="padding-top: 0px;">
+        <div class="hp-banner-inner container rush-wmr-banner">
+            <div class="rush-wmr-25 rush-nomobile">
+                <a href="/rush-tickets/"><img src="https://cdn2.rsc.org.uk/sitefinity/images/homepage-and-section-hubs/rush-tickets/rushbannerpadded.png?sfvrsn=1361b221_2"></a>
+                <h3 class="lrgr-copy rd qt-bt-mg" style="margin-bottom:0.75rem!important;">Available from Midday</h3>
+                <a href="/rush-tickets/" class="button-link red-btn2" style="display: none;">Find out more</a>
+            </div>
+            <div class="rush-wmr-50">
+                <h2 class="lrg-copy gld rush-header rush-nomobile" style="margin-bottom: 1rem;">Countdown</h2>
+                <div id="countdown" data-countdownto="2024-03-02 12:00" class="timer container db-bt-mg" style="margin-bottom: 0px;">
+                    <div class="third smlst upc hf-bt-mg">Hours</div>
+                    <div class="third smlst upc hf-bt-mg">Minutes</div>
+                    <div class="third smlst upc hf-bt-mg">Seconds</div>
+                    <div class="hours third heavy max-copy">00</div>
+                    <div class="minutes third heavy max-copy">34</div>
+                    <div class="seconds third heavy max-copy">27</div>
+                </div>
+                <div class="rush-onlymobile">
+                    <h3 class="lrgr-copy rd qt-bt-mg" style="margin-bottom:0.75rem!important;">Rush tickets available from midday</h3>
+                    <a href="/rush-tickets/" class="button-link red-btn2" style="display: none;">Find out more</a>
+                </div>
+            </div>
+            <div class="rush-wmr-25">
+                <!-- || Saved for any new branding
+                    <div class="rush-wmr-icon">
+                    <span class="rush-onlymobile rush-mobiletext">Rush tickets is supported<br>by West Midlands Railway</span>
+                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/Homepage-and-Section-Hubs/rush-tickets/rush-banner-wmr-logo.jpg?sfvrsn=2">
+                    <span class="rush-nomobile rush-smalltext">Rush tickets is supported<br>by West Midlands Railway</span>
+                </div>-->
+            </div>
+        </div>
+    </section>
+</div>
+<!-- END Countdown Banner -->
+<!-- Active Ticket countdown banner -->
+
+<div class="hp-banner-outer activetickets black-bkgrnd" style="display: none;">
+    <section class="hp-banner" style="padding-top: 0px;">
+        <div class="hp-banner-inner container rush-wmr-banner">
+            <div class="rush-wmr-25 rush-nomobile">
+                <a href="/rush-tickets/"><img src="https://cdn2.rsc.org.uk/sitefinity/images/homepage-and-section-hubs/rush-tickets/rushbannerpadded.png?sfvrsn=1361b221_2"></a>
+                <a href="/rush-tickets/"><h3 class="lrgr-copy rd qt-bt-mg" style="margin-bottom:0.75rem!important;">Available Now</h3></a>
+                <a href="/rush-tickets/" class="button-link red-btn2">Find out more</a>
+            </div>
+            <div class="rush-wmr-50">
+                <div id="activecountdown" data-activecountdownto="2024-03-02 23:59" class="timer container db-bt-mg" style="margin-bottom: 0px;">
+                    <div class="third smlst upc hf-bt-mg">Hours</div>
+                    <div class="third smlst upc hf-bt-mg">Minutes</div>
+                    <div class="third smlst upc hf-bt-mg">Seconds</div>
+                    <div class="hours third heavy max-copy">12</div>
+                    <div class="minutes third heavy max-copy">33</div>
+                    <div class="seconds third heavy max-copy">27</div>
+                </div>
+                <div class="rush-onlymobile">
+                    <h3 class="lrgr-copy rd qt-bt-mg" style="margin-bottom:0.75rem!important;">Rush tickets available from midday</h3>
+                    <a href="/rush-tickets/" class="button-link red-btn2">Find out more</a>
+                </div>
+            </div>
+            <div class="rush-wmr-25">
+                <div class="rush-wmr-icon">
+                    <!---<span class="rush-onlymobile rush-mobiletext">Rush tickets is supported<br>by West Midlands Railway</span>
+                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/Homepage-and-Section-Hubs/rush-tickets/rush-banner-wmr-logo.jpg?sfvrsn=2">
+                    <span class="rush-nomobile rush-smalltext">Rush tickets is supported<br>by West Midlands Railway</span>--->
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- End Active Ticket Countdown banner -->
+<!-- START No Countdown Banner -->
+<div class="hp-banner-outer no-countdown black-bkgrnd" style="display:none;">
+    <section class="hp-banner" style="padding-top: 0px;">
+        <div class="hp-banner-inner container rush-wmr-banner">
+            <div class="rush-wmr-25">
+            </div>
+            <style>.button-link.red-btn2{display:inline-block !important;}</style><div class="rush-wmr-50"><a href="/rush-tickets/"><img class="rush-mobileheader" src="https://cdn2.rsc.org.uk/sitefinity/images/homepage-and-section-hubs/rush-tickets/rushbannerpadded.png?sfvrsn=1361b221_2"></a><a href="/rush-tickets/"><h3 class="lrgr-copy rd qt-bt-mg" style="margin-bottom:0.75rem!important;">Available Now</h3></a><a href="/rush-tickets/" class="button-link red-btn2" style="font-size: 13px; display: none;">Find out more</a></div>
+            <div class="rush-wmr-25">
+                <div class="rush-wmr-icon">
+                    <!---<span class="rush-onlymobile rush-mobiletext">Rush tickets is supported<br>by West Midlands Railway</span>
+                        <img src="https://cdn2.rsc.org.uk/sitefinity/images/Homepage-and-Section-Hubs/rush-tickets/rush-banner-wmr-logo.jpg?sfvrsn=2">
+                    <span class="rush-nomobile rush-smalltext">Rush tickets is supported<br>by West Midlands Railway</span>--->
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- END No Countdown Banner -->
+<!-- START Return Next Week Banner || 15/02/22 This sections is now surplus to requirements of new Rush On Sale window 12:00 - 23:59 
+<div class="hp-banner-outer rush-over black-bkgrnd" style="display: none;">
+    <section class="hp-banner" style="padding-top: 0px;">
+        <div class="hp-banner-inner container rush-wmr-banner">
+            <div class="rush-wmr-25">
+                <a href='/rush-tickets/'><img class="rush-mobileheader" src="https://cdn2.rsc.org.uk/sitefinity/images/homepage-and-section-hubs/rush-tickets/rushbannerpadded.png?sfvrsn=1361b221_2"></a>
+                <a href="/rush-tickets/" class="button-link red-btn2">Find out more</a>
+            </div>
+            <div class="rush-wmr-50 rush-largespacing">
+                <h2 class="lrg-copy gld rush-header" style="margin-bottom: 1rem; margin-top: 12px; padding: 0px 10px 0px 10px;">Rush tickets will return next friday from midday</h2>
+            </div>
+            <div class="rush-wmr-25">
+                <div class="rush-wmr-icon">
+                    <!--<span class="rush-onlymobile rush-mobiletext">Rush tickets is supported<br>by West Midlands Railway</span>
+                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/Homepage-and-Section-Hubs/rush-tickets/rush-banner-wmr-logo.jpg?sfvrsn=2">
+                    <span class="rush-nomobile rush-smalltext">Rush tickets is supported<br>by West Midlands Railway</span>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- END Return Next Week Banner -->
+<!--- CONTENT ENDS --->
+
+</span><span id="MainContainer_HeaderContainer_C314">
+</span><span id="MainContainer_HeaderContainer_C459">
+
+<div class="content-header">
+
+    
+            <div class="container hero-wrapper">
+                <a id="MainContainer_HeaderContainer_C459_ctl00_ctl00_HomepageImageLink" class="hero-image" href="https://www.rsc.org.uk/ben-and-imo">
+                    <div class="main-image-holder">
+                        <img id="MainContainer_HeaderContainer_C459_ctl00_ctl00_HomepageHeaderImage" src="//cdn2.rsc.org.uk/sitefinity/images/homepage-and-section-hubs/6670-ben-imo-launch-assets_1640x722px.tmb-img-1824.jpg?sfvrsn=d4098021_1" alt="Woman in a yellow blouse with arms upraised conducting, overlaid on the head and shoulders of Benjamin Britten, on a teal coloured background">
+                    </div>
+                    <div class="hero-copy" style="">
+                        <div class="title-bkgrnd compact" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                            <div class="bkgrnd-strip red-overlay"></div>
+                            <h1 class="title">
+                                Ben and Imo
+                                <svg viewBox="0 0 15 34" enable-background="0 0 15 34">
+                                    <path class="" d="M2.3,33L13.9,17.3,2.1,2"></path>
+                                </svg>
+                            </h1>
+                        </div>  
+                        <div class="hero-intro">
+                            <p>
+                                The true story of the passionate partnership between<br> Benjamin Britten and Imogen Holst
+                            </p>
+                        </div>  
+                    </div> 
+                </a>
+            </div> 
+        
+
+</div>  
+</span><script type="text/javascript">try {
+  if (dataLayer != null) {
+                dataLayer.push({'visitorType':'Original'});
+  }
+} catch (dlErr) {}
+
+/*$(document).ready(function() {
+    try {
+        if ($("header h1.title").first().html().toLowerCase().indexOf("matilda the musical") >= 0) {
+            var svgArrow = ' <svg viewBox="0 0 15 34" enable-background="0 0 15 34"><path class="" d="M2.3,33L13.9,17.3,2.1,2"></path></svg>';
+            $("header h1.title").first().html("Matilda the Musical<br>UK &amp; Ireland Tour" + svgArrow);
+            $(".hero-intro p").first().html($(".hero-intro p").first().html().replace("Public booking now open","Public booking now open<br>"));
+        }
+    }
+    catch (hpErr) {}
+}); */
+
+//$(function(){
+           
+           
+
+var start = $('.start');
+var stop = $('.pause');
+var muteToggle = $('.muteToggle');
+
+$(".controls").hide();
+
+// MEDIA QUERY TO REMOVE BUTTON BASED ON SCREEN SIZE
+
+function mediaSize() { 
+                if (window.matchMedia('(min-width: 790px)').matches) {
+                                //$(".title-bkgrnd").hide();
+                $(".hero-intro").show();  
+          $("#slVideo").on("mouseover", function() { $(".controls").show(); });
+  $("#slVideo").mouseout(function() {
+                $(".controls").hide();
+  });
+  $(".hero-copy").mouseover(function() {$(".controls").show();});
+  
+  $(".hero-copy").mouseout(function() {
+                $(".controls").hide();
+  });
+  $(".controls").mouseover(function() {$(".controls").show();});
+  
+  $(".controls").mouseout(function() {
+    $(".controls").hide();
+  });
+
+  
+        }
+                else{
+               //$(".hero-intro").hide();
+                $(".title-bkgrnd").show();
+          $(".title-bkgrnd").css("width","100%");
+          $(".title-bkgrnd").css("padding-left","0");
+          $(".title-bkgrnd").css("padding-right","0");
+          
+          
+
+  $("#slVideo").unbind('mouseover');
+  $("#slVideo").unbind('mouseout');
+ $(".hero-copy").unbind('mouseover');
+  $(".hero-copy").unbind('mouseout');
+  $(".controls").unbind('mouseover');
+  $(".controls").unbind('mouseout');
+                }
+};
+                
+mediaSize();
+
+// LISTEN TO REMOVE ELEMENTS BASED ON SCREEN SIZE
+
+window.addEventListener('resize', mediaSize, false);  
+
+var video = document.getElementById("slVideo");
+
+start.on('click', function (e) {              
+                video.play();
+                                return false;
+            });
+            stop.on('click', function (e) {
+                video.pause();
+               return false;
+            });
+
+// IS VIDEO MUTED OR NOT ??
+if(video.muted){
+  muteToggle.addClass('muted');
+  }
+  else{
+  muteToggle.removeClass('muted');
+  }
+
+// ADD MUTE TOGGLE CLICK EVENT
+
+muteToggle.on('click', function (e) {
+                e.preventDefault();
+                if (video.muted) {                 
+                    $(this).removeClass('muted');
+                    video.muted = false;
+                } else {                 
+                  $(this).addClass('muted');
+                    video.muted = true;                  
+                }
+            });
+
+// PLAY AND PAUSE CLICK AND EVENT HANDLERS
+
+video.addEventListener('play', function () {
+                $(start).hide();
+                $(stop).show();
+            });
+  
+video.addEventListener('pause', function () {                
+                $(start).show();
+                $(stop).hide();
+            });
+
+// ADD MOUSE OVER EVENTS
+
+
+  $("#slVideo").click(function() {
+  $(".controls").toggle();
+  });
+  
+//});</script>
+<div class="sfContentBlock"><div class="quick-links">
+<div class="content-wrapper">
+<div class="ql-head">
+<h2 class="new-content-head">
+<span>What's On</span>
+<span>Quick Links:</span>
+</h2>
+</div>
+<div class="ql-body">
+<ul>
+    <li><a class="on-light" href="/whats-on/in/stratford/?from=ql">Stratford-upon-Avon</a></li>
+    <li><a class="on-light" href="/whats-on/in/london/?from=ql">London</a></li>
+    <li><a class="on-light" href="/whats-on/filter/what/any/where/uktour/when/any/any/view/grid?from=ql">UK tour</a></li>
+    <li><a class="on-light" href="whats-on/filter/what/any/where/online/when/any/any/view/grid">Online</a></li>
+    <!-- <li><a class="on-light" href="/whats-on/in-cinemas/?from=ql">In Cinemas</a></li>-->
+    <li><a class="on-light" href="tel:01789331111">Box Office - 01789 331111</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- OLD CODE NO WOQL text
+
+<div class="quick-links">
+<div class="content-wrapper">
+<div class="ql-body">
+<ul style="padding: 15px 5px 15px 5px;">
+    <li><a class="on-light" href="/whats-on/in/stratford/?from=ql">Stratford-upon-Avon</a></li>
+    <li><a class="on-light" href="/whats-on/in/london/?from=ql">London</a></li>
+    <li><a class="on-light" href="/whats-on/filter/what/any/where/uktour/when/any/any/view/grid?from=ql">UK tour</a></li>
+    <li><a class="on-light" href="/whats-on/filter/what/any/where/wwd/when/any/any/view/grid?from=ql">Worldwide</a></li>
+
+<li><a class="on-light" href="/whats-on/in-cinemas/?from=ql">In Cinemas</a></li>
+<li><a class="on-light" href="/much-ado-about-shakespeare-podcast?from=ql">Podcasts</a></li>
+<li><a class="on-light" href="tel:01789331111">Box Office - 01789 331111</a></li>
+-->
+
+
+</div>
+
+                        
+            </header>
+                    
+            
+<div class="sfContentBlock"><div class="section-wrapper warning emergency" style="background-color:#464841">
+<section class="section-intro">
+<p style="text-align:center">
+Your journey may be disrupted if you are travelling to the theatre by road, due to road improvement works taking place on the A439 Warwick Road. Please allow extra time to travel. <a href="/your-visit/getting-here?roadworks="><strong>Find out more</strong>.</a></p>
+</section>
+</div>
+&nbsp;
+<section class="section-intro">
+<!-- section-intro -->
+<!-- section-wrapper, warning/emergency shared content --></section>
+
+
+</div><span id="MainContainer_MainContainer_C503">
+
+<!-- WHAT'S ON SECTION / RECOMMENDS -->
+<div class="section-wrapper white">
+    <section class="section-intro">
+        
+        <h2>
+            What's on highlights
+        </h2>
+
+         <style>
+                .black-overlay, .black-regular {
+                    background-color: gray;
+                    opacity: 0.6;
+/*                    mix-blend-mode: overlay;
+*/
+                }
+                .spaced-letters {
+                    letter-spacing: 4px;
+                  
+                }
+                .title-gothic {
+                    font-family: Verdana, sans-serif !important;
+                                font-weight: 500; /* Semi-bold */
+                }
+            </style>
+
+        <div class="results-inner hp">
+
+            
+                    
+                    <a href="/buddha-of-suburbia" class="wo-grid-item hp-topline">
+                        <div class="gi-header">
+                            <div class="gi-main-image">
+                                <div class="main-image-holder">
+                                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/whatson-images/plays/2024/7352_season24-webasset_720x684_buddha.tmb-wo-720.jpg" alt="The Buddha of Suburbia">
+                                </div> 
+                                <div id="MainContainer_MainContainer_C503_ctl00_ctl00_HighlightsTopRow_PlayTitleTopCopy_0" class="title-copy">
+	
+                                    <div class="title-bkgrnd gi-title-bkgrnd" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                                        
+                                        <div class="bkgrnd-strip black-overlay" data-tessitura-id="54457"></div>
+                                        <div class="bkgrnd-strip red-regular"></div>
+                                        <div class="credit">A CO-PRODUCTION WITH WISE CHILDREN</div>
+                                        
+                                        <h3 class="font-change title title-gothic spaced-letters" data-tessitura-id="54457">The Buddha of Suburbia</h3>
+                                        <p class="font-change subtitle title-gothic" data-tessitura-id="54457">BASED ON THE NOVEL BY HANIF KUREISHI<br>ADAPTED FOR THE STAGE BY EMMA RICE,<br>WITH HANIF KUREISHI</p>
+                                    </div>
+                                
+</div> 
+                            </div> 
+                        </div> 
+                        <div class="gi-info">
+                            <div class="gi-info-inner">
+                                <div class="place-time">
+                                    <div class="loc">Stratford-upon-Avon</div>
+                                    <div class="dates">From 18 April to 1 June 2024</div>
+                                </div> 
+                            </div> 
+                        </div> 
+                    </a> 
+                
+                    <a href="/a-midsummer-nights-dream/" class="wo-grid-item hp-topline">
+                        <div class="gi-header">
+                            <div class="gi-main-image">
+                                <div class="main-image-holder">
+                                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/whatson-images/plays/2024/7188-dream-720x684.tmb-wo-720.jpg" alt="A Midsummer Night's Dream">
+                                </div> 
+                                <div id="MainContainer_MainContainer_C503_ctl00_ctl00_HighlightsTopRow_PlayTitleTopCopy_1" class="title-copy">
+	
+                                    <div class="title-bkgrnd gi-title-bkgrnd" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                                        
+                                        <div class="bkgrnd-strip red-overlay" data-tessitura-id="53399"></div>
+                                        <div class="bkgrnd-strip red-regular"></div>
+                                        
+                                        
+                                        <h3 class="font-change title" data-tessitura-id="53399">A Midsummer Night's Dream</h3>
+                                        <p class="font-change subtitle" data-tessitura-id="53399">William Shakespeare</p>
+                                    </div>
+                                
+</div> 
+                            </div> 
+                        </div> 
+                        <div class="gi-info">
+                            <div class="gi-info-inner">
+                                <div class="place-time">
+                                    <div class="loc">Stratford-upon-Avon</div>
+                                    <div class="dates">Until 30 March 2024</div>
+                                </div> 
+                            </div> 
+                        </div> 
+                    </a> 
+                
+                
+                                
+        </div> <!-- results inner, homepage -->
+
+        <div class="results-inner hp">
+
+            
+                    
+                    <a href="/the-school-for-scandal" class="wo-grid-item hp-bottomline">
+                        <div class="gi-header">
+                            <div class="gi-main-image">
+                                <div class="main-image-holder">
+                                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/whatson-images/plays/2024/7352_season24-webasset_720x684_school.tmb-wo-520.jpg" alt="The School for Scandal">
+                                </div> 
+                                <div id="MainContainer_MainContainer_C503_ctl00_ctl00_HighlightsBottomRow_PlayTitleBottomCopy_0" class="title-copy">
+	
+                                    <div class="title-bkgrnd gi-title-bkgrnd" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                                        
+                                        <div class="bkgrnd-strip black-overlay" data-tessitura-id="54450"></div>
+
+                                        <div class="bkgrnd-strip red-regular"></div>
+                                        
+                                        
+                                        <h3 class="font-change title title-gothic spaced-letters" data-tessitura-id="54450">The School for Scandal</h3>
+                                        <p class="font-change subtitle title-gothic" data-tessitura-id="54450">BY RICHARD BRINSLEY SHERIDAN</p>
+                                    </div>
+                                
+</div>
+                            </div> 
+                        </div> 
+                        <div class="gi-info">
+                            <div class="gi-info-inner">
+                                <div class="place-time">
+                                    <div class="loc">Stratford-upon-Avon</div>
+                                    <div class="dates">From 2 July to 6 September 2024</div>
+                                </div> 
+                            </div> 
+                        </div> 
+                    </a>
+                
+                    <a href="/english/" class="wo-grid-item hp-bottomline">
+                        <div class="gi-header">
+                            <div class="gi-main-image">
+                                <div class="main-image-holder">
+                                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/whatson-images/plays/2024/7352_season24-webasset_720x684_english.tmb-wo-520.jpg" alt="English">
+                                </div> 
+                                <div id="MainContainer_MainContainer_C503_ctl00_ctl00_HighlightsBottomRow_PlayTitleBottomCopy_1" class="title-copy">
+	
+                                    <div class="title-bkgrnd gi-title-bkgrnd" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                                        
+                                        <div class="bkgrnd-strip black-overlay" data-tessitura-id="54577"></div>
+
+                                        <div class="bkgrnd-strip red-regular"></div>
+                                        
+                                        
+                                        <h3 class="font-change title title-gothic spaced-letters" data-tessitura-id="54577">English</h3>
+                                        <p class="font-change subtitle title-gothic" data-tessitura-id="54577">BY SANAZ TOOSSI</p>
+                                    </div>
+                                
+</div>
+                            </div> 
+                        </div> 
+                        <div class="gi-info">
+                            <div class="gi-info-inner">
+                                <div class="place-time">
+                                    <div class="loc">Stratford-upon-Avon, London</div>
+                                    <div class="dates">From 9 May to 29 June 2024</div>
+                                </div> 
+                            </div> 
+                        </div> 
+                    </a>
+                
+                    <a href="/loves-labours-lost" class="wo-grid-item hp-bottomline">
+                        <div class="gi-header">
+                            <div class="gi-main-image">
+                                <div class="main-image-holder">
+                                    <img src="https://cdn2.rsc.org.uk/sitefinity/images/whatson-images/plays/2024/7352_season24-webasset_720x684_lll.tmb-wo-520.jpg" alt="Love's Labour's Lost">
+                                </div> 
+                                <div id="MainContainer_MainContainer_C503_ctl00_ctl00_HighlightsBottomRow_PlayTitleBottomCopy_2" class="title-copy">
+	
+                                    <div class="title-bkgrnd gi-title-bkgrnd" style="width: 100%; padding-left: 0px; padding-right: 0px;">
+                                        
+                                        <div class="bkgrnd-strip black-overlay" data-tessitura-id="54442"></div>
+
+                                        <div class="bkgrnd-strip red-regular"></div>
+                                        
+                                        
+                                        <h3 class="font-change title title-gothic spaced-letters" data-tessitura-id="54442">Love's Labour's Lost</h3>
+                                        <p class="font-change subtitle title-gothic" data-tessitura-id="54442">William Shakespeare</p>
+                                    </div>
+                                
+</div>
+                            </div> 
+                        </div> 
+                        <div class="gi-info">
+                            <div class="gi-info-inner">
+                                <div class="place-time">
+                                    <div class="loc">Stratford-upon-Avon</div>
+                                    <div class="dates">From 11 April to 18 May 2024</div>
+                                </div> 
+                            </div> 
+                        </div> 
+                    </a>
+                
+                
+
+        </div> <!-- results inner, homepage -->
+    </section> <!-- section intro -->
+</div> <!-- section wrapper -->
+
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+        // Process bkgrnd-strip elements
+        document.querySelectorAll('.bkgrnd-strip').forEach(function (div) {
+            var tessituraId = div.getAttribute('data-tessitura-id');
+            //var ids = ['54446', '53399', '54566', '54461', '54450', '54467', '54464', '54453', '54457', '54442', '54563'];
+            //var ids = [ '54443', '54447', '54451', '54454', '54458', '54462', '54465', '54579', '54582', '54468' ];
+            var ids = ['54467',
+                '54457',
+                '54577',
+                '54581',
+                '54461',
+                '54442',
+                '54446',
+                '54464',
+                '54453',
+                '54450'];
+
+            if (ids.includes(tessituraId)) {
+                div.classList.remove('red-overlay');
+                div.classList.add('black-overlay');
+            } else {
+               
+            }
+        });
+        // Process elements with class 'font-change'
+        document.querySelectorAll('.font-change').forEach(function (el) {
+            var tessituraId = el.getAttribute('data-tessitura-id');
+            //var ids = ['54446', '54566', '54461', '54450', '54467', '54464', '54453', '54457', '54442', '54563'];
+            //var ids = ['54443', '54447', '54451', '54454', '54458', '54462', '54465', '54579', '54582', '54468'];
+            var ids = ['54467',
+                '54457',
+                '54577',
+                '54581',
+                '54461',
+                '54442',
+                '54446',
+                '54464',
+                '54453',
+                '54450'];
+
+            if (ids.includes(tessituraId)) {
+                el.classList.add('title-gothic');
+            } else {
+               
+            }
+        });
+        document.querySelectorAll('.title').forEach(function (el) {
+            var tessituraId = el.getAttribute('data-tessitura-id');
+            //var ids = ['54446', '54566', '213', '54461', '54450', '54467', '54464', '54453', '54457', '54442', '54563'];
+            //var ids = ['54443', '54447', '54451', '54454', '54458', '54462', '54465', '54579', '54582', '54468'];
+            var ids = ['54467',
+                '54457',
+                '54577',
+                '54581',
+                '54461',
+                '54442',
+                '54446',
+                '54464',
+                '54453',
+                '54450'];
+
+            if (ids.includes(tessituraId)) {
+                el.classList.add('spaced-letters');
+            } else {
+            }
+        });
+        ////This is for the font-change for the location and date below the posting.
+        //document.querySelectorAll('.font-change').forEach(function (el) {
+        //    var tessituraId = el.getAttribute('data-tessitura-id');
+        //    if (tessituraId === '53408' || tessituraId === '53409') {
+        //        el.classList.add('title-gothic');
+        //    } else {
+               
+        //    }
+        //});
+    });
+</script>
+
+</span><span id="MainContainer_MainContainer_C490">
+
+<div class="section-wrapper dk-gray">
+    <section class="section-intro">
+
+        
+                <h2>
+                    news, features and updates
+                </h2>
+            
+ 
+        
+
+        
+                <div class="bottom-feed hp secondary">
+                    <div class="widget-holder text-list">
+                        
+                <a href="/news/whats-on-in-march" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-670.jpg?sfvrsn=83038921_2" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-1340.jpg?sfvrsn=83038921_2 2x" alt="What's On in March" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-1340.jpg?sfvrsn=83038921_2 2x" src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-670.jpg?sfvrsn=83038921_2">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-670.jpg?sfvrsn=83038921_2"
+                                alt="What's On in March" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/a-midsummer-night_s-dream-production-photos_-2024_-shoot-2_2024_photo-pamela-raith-_c_-rsc-_367575-social.tmb-gal-670.jpg?sfvrsn=83038921_2"
+                                alt="What's On in March" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>What's On in March</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Stories of magic and music, First Encounters: Romeo and Juliet tours to Stratford and the north of England, and a chance to take over our stage for a day.
+                            </p>
+                            <div class="button-link gold-btn">Discover March</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/rooftop-restaurant/menus/afternoon-teas" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-670.jpg?sfvrsn=cfacb521_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-1340.jpg?sfvrsn=cfacb521_1 2x" alt="Afternoon Tea" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-1340.jpg?sfvrsn=cfacb521_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-670.jpg?sfvrsn=cfacb521_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-670.jpg?sfvrsn=cfacb521_1"
+                                alt="Afternoon Tea" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/afternoon-tea-rooftop-restaurant-2022_2021_elin-englund_323478.tmb-gal-670.jpg?sfvrsn=cfacb521_1"
+                                alt="Afternoon Tea" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Afternoon Tea</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Enjoy our magical A Midsummer Night's Dream inspired afternoon tea at the Rooftop Restaurant.
+                            </p>
+                            <div class="button-link gold-btn">Read More</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/ben-and-imo/production-photos" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-670.jpg?sfvrsn=1358921_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-1340.jpg?sfvrsn=1358921_1 2x" alt="Production Photos" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-1340.jpg?sfvrsn=1358921_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-670.jpg?sfvrsn=1358921_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-670.jpg?sfvrsn=1358921_1"
+                                alt="Production Photos" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/ben-and-imo/ben-and-imo-production-images_-2024_2024_photo-by-ellie-kurttz-_c_-rsc_368216.tmb-gal-670.jpg?sfvrsn=1358921_1"
+                                alt="Production Photos" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Ben and Imo Production Photos</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Take a look at the fascinating production photos for Ben and Imo.
+                            </p>
+                            <div class="button-link gold-btn">See photos</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/a-midsummer-nights-dream/trailer" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-670.png?sfvrsn=f0468921_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-1340.png?sfvrsn=f0468921_1 2x" alt="Trailer" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-1340.png?sfvrsn=f0468921_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-670.png?sfvrsn=f0468921_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-670.png?sfvrsn=f0468921_1"
+                                alt="Trailer" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/productions/2024-shows/a-midsummer-night-s-dream/dream-on-stage-trailer-social-image7bb1e8ee74f76138967eff00002337f7.tmb-gal-670.png?sfvrsn=f0468921_1"
+                                alt="Trailer" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>A Midsummer Night's Dream Trailer</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Mathew Baynton is Bottom in our 2024 production of A Midsummer Night's Dream, directed by Eleanor Rhode.
+                            </p>
+                            <div class="button-link gold-btn">watch trailer</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                    </div> <!-- widget holder, text list -->
+                </div> <!-- bottom feed section, homepage -->
+            
+
+    </section> <!-- section intro -->
+</div> <!-- section wrapper -->
+</span><span id="MainContainer_MainContainer_C475">
+
+<div class="section-wrapper white">
+    <section class="section-intro">
+
+        
+                <h2>
+                    More about us
+                </h2>
+            
+ 
+        
+
+        
+                <div class="bottom-feed hp secondary">
+                    <div class="widget-holder text-list">
+                        
+                <a href="/your-visit/getting-here" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-670.jpg?sfvrsn=16183121_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-1340.jpg?sfvrsn=16183121_1 2x" alt="Getting here" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-1340.jpg?sfvrsn=16183121_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-670.jpg?sfvrsn=16183121_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-670.jpg?sfvrsn=16183121_1"
+                                alt="Getting here" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/people/actors/getting-here.tmb-gal-670.jpg?sfvrsn=16183121_1"
+                                alt="Getting here" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Getting here</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Our postcode is CV37 6BB, and we are a short drive from the M40 (J15) and a short walk from the train station. We have some accessible parking nearby.
+                            </p>
+                            <div class="button-link gold-btn">Read More</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/rooftop-restaurant/menus/cocktail-bar" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-670.jpg?sfvrsn=38278521_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-1340.jpg?sfvrsn=38278521_1 2x" alt="Cocktail Bar" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-1340.jpg?sfvrsn=38278521_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-670.jpg?sfvrsn=38278521_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-670.jpg?sfvrsn=38278521_1"
+                                alt="Cocktail Bar" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/catering/cocktail-bar-2023_2023_image-by-sara-beaumont-_c_-rsc_359073-(1).tmb-gal-670.jpg?sfvrsn=38278521_1"
+                                alt="Cocktail Bar" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Cocktail Bar</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Our Rooftop Restaurant Cocktail Bar serves a selection of alcoholic and non alcoholic favourites, as well as some fresh new surprises.
+                            </p>
+                            <div class="button-link gold-btn">Cocktails list</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/support" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-670.jpg?sfvrsn=3a285921_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-1340.jpg?sfvrsn=3a285921_1 2x" alt="Membership &amp; Support Us" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-1340.jpg?sfvrsn=3a285921_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-670.jpg?sfvrsn=3a285921_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-670.jpg?sfvrsn=3a285921_1"
+                                alt="Membership & Support Us" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/audience-photos_-july-2015-_photo-by-david-tett-_c_-rsc_rsc-audience-july-2015-social-media-1440x1368.tmb-gal-670.jpg?sfvrsn=3a285921_1"
+                                alt="Membership & Support Us" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Membership &amp; Support Us</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Join as a Member or Patron for priority booking and exclusive events, while helping us to create theatre at its best for everyone.
+                            </p>
+                            <div class="button-link gold-btn">Read More</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/shop" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-670.jpg?sfvrsn=230c8621_3" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-1340.jpg?sfvrsn=230c8621_3 2x" alt="Shop" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-1340.jpg?sfvrsn=230c8621_3 2x" src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-670.jpg?sfvrsn=230c8621_3">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-670.jpg?sfvrsn=230c8621_3"
+                                alt="Shop" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/shop-items/rscretail-hoodie-social.tmb-gal-670.jpg?sfvrsn=230c8621_3"
+                                alt="Shop" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Shop</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Stunning stationery, brilliant books and a selection of Shakespeare-themed clothing and accessories. 
+                            </p>
+                            <div class="button-link gold-btn">Shop now</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                    </div> <!-- widget holder, text list -->
+                </div> <!-- bottom feed section, homepage -->
+            
+
+    </section> <!-- section intro -->
+</div> <!-- section wrapper -->
+</span><span id="MainContainer_MainContainer_C491">
+
+<div class="section-wrapper lt-gray">
+    <section class="section-intro">
+
+        
+                <h2>
+                    
+                </h2>
+            
+ 
+        
+
+        
+                <div class="bottom-feed hp secondary">
+                    <div class="widget-holder text-list">
+                        
+                <a href="/our-theatres/seating-plans" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-670.jpg?sfvrsn=abf0221_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-1340.jpg?sfvrsn=abf0221_1 2x" alt="Seating plans" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-1340.jpg?sfvrsn=abf0221_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-670.jpg?sfvrsn=abf0221_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-670.jpg?sfvrsn=abf0221_1"
+                                alt="Seating plans" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/backstage-and-front-of-house-tours_2013_david-woodings-_c_-rsc_11746.tmb-gal-670.jpg?sfvrsn=abf0221_1"
+                                alt="Seating plans" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Seating plans</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Download seating plans for the Royal Shakespeare Theatre in Stratford, information about wheelchair access and seating for our shows in London.
+                            </p>
+                            <div class="button-link gold-btn">Find out more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/restaurant-cafes-bars" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-670.jpg?sfvrsn=4bea2b21_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-1340.jpg?sfvrsn=4bea2b21_1 2x" alt="Restaurant, cafes and bars" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-1340.jpg?sfvrsn=4bea2b21_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-670.jpg?sfvrsn=4bea2b21_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-670.jpg?sfvrsn=4bea2b21_1"
+                                alt="Restaurant, cafes and bars" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/catering/social-images/riverside-cafe-food-products-and-exteriors_2014_photo-by-lucy-barriball-_c_-rsc_160811_social.tmb-gal-670.jpg?sfvrsn=4bea2b21_1"
+                                alt="Restaurant, cafes and bars" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Restaurant, cafes and bars</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                The Riverside Cafe and Rooftop Restaurant are now open for everything from casual coffees to three course meals.
+                            </p>
+                            <div class="button-link gold-btn">Read More</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/your-visit/access" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-670.jpg?sfvrsn=a6c8e421_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-1340.jpg?sfvrsn=a6c8e421_1 2x" alt="Access" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-1340.jpg?sfvrsn=a6c8e421_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-670.jpg?sfvrsn=a6c8e421_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-670.jpg?sfvrsn=a6c8e421_1"
+                                alt="Access" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/access/audio-described-and-tour-tour_-2019_2019_photo-by-sara-beaumont-_c_-rsc_272550.tmb-gal-670.jpg?sfvrsn=a6c8e421_1"
+                                alt="Access" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Access</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                We want everything we do to be accessible to all our audiences, and are looking for ways to break down barriers so more people can enjoy theatre at its best.
+                            </p>
+                            <div class="button-link gold-btn">Find out more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/the-plays-the-thing" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-670.jpg?sfvrsn=5f868121_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-1340.jpg?sfvrsn=5f868121_1 2x" alt="The Play's The Thing" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-1340.jpg?sfvrsn=5f868121_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-670.jpg?sfvrsn=5f868121_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-670.jpg?sfvrsn=5f868121_1"
+                                alt="The Play's The Thing" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/exhibitions/the-play's-the-thing/relaunched-rsc-theatre-tours_-april-2022_2022_photo-by-sam-allard_-fisher-studios-_c_-rsc_328835.tmb-gal-670.jpg?sfvrsn=5f868121_1"
+                                alt="The Play's The Thing" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>The Play's The Thing exhibition</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Take a magical journey through 100 years of theatre-making in Stratford-upon-Avon with our new exhibition
+                            </p>
+                            <div class="button-link gold-btn">Find out more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                    </div> <!-- widget holder, text list -->
+                </div> <!-- bottom feed section, homepage -->
+            
+
+    </section> <!-- section intro -->
+</div> <!-- section wrapper -->
+</span><span id="MainContainer_MainContainer_C014">
+
+<div class="section-wrapper white">
+    <section class="section-intro">
+
+        
+                <h2>
+                    
+                </h2>
+            
+ 
+        
+
+        
+                <div class="bottom-feed hp secondary">
+                    <div class="widget-holder text-list">
+                        
+                <a href="/your-visit/our-theatres" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-670.jpg?sfvrsn=cebf0221_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-1340.jpg?sfvrsn=cebf0221_1 2x" alt="Our theatres" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-1340.jpg?sfvrsn=cebf0221_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-670.jpg?sfvrsn=cebf0221_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-670.jpg?sfvrsn=cebf0221_1"
+                                alt="Our theatres" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/buildings-and-objects/audiences/first-encounters_-the-tempest-young-people-audience-photos_-march-2017_2017_photo-by-david-tett-_c_-rsc_216474.tmb-gal-670.jpg?sfvrsn=cebf0221_1"
+                                alt="Our theatres" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Our theatres</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Find out about our three theatres in Stratford-upon-Avon: the Royal Shakespeare Theatre, the Swan Theatre and The Other Place.
+                            </p>
+                            <div class="button-link gold-btn">Read More</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/learn/schools-and-teachers/teacher-resources" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-670.jpg?sfvrsn=fe0a5b21_2" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-1340.jpg?sfvrsn=fe0a5b21_2 2x" alt="Teacher Resources" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-1340.jpg?sfvrsn=fe0a5b21_2 2x" src="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-670.jpg?sfvrsn=fe0a5b21_2">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-670.jpg?sfvrsn=fe0a5b21_2"
+                                alt="Teacher Resources" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/education/resources/regional-schools-celebration_-rehearsal-workshop_-clifton-primary-school_2015_photo-by-rob-freeman-_c_-rscphoto-by-rob-freeman-_c_-rsc_155967.tmb-gal-670.jpg?sfvrsn=fe0a5b21_2"
+                                alt="Teacher Resources" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Teacher Resources</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Free Teacher Packs, videos, image galleries and interactive whiteboard resources to bring Shakespeare to life in the classroom
+                            </p>
+                            <div class="button-link gold-btn">Find out more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/jobs" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-670.jpg?sfvrsn=40c40d21_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-1340.jpg?sfvrsn=40c40d21_1 2x" alt="RSC Jobs" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-1340.jpg?sfvrsn=40c40d21_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-670.jpg?sfvrsn=40c40d21_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-670.jpg?sfvrsn=40c40d21_1"
+                                alt="RSC Jobs" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/people/working-at-the-rsc/stitch-in-time-campaign-film-behind-the-scenes-images_2017_photo-by-sam-allard-_c_-rsc_225717-(1)cb336cee74f76138967eff00002337f7.tmb-gal-670.jpg?sfvrsn=40c40d21_1"
+                                alt="RSC Jobs" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>RSC Jobs</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Because not all our best roles are on stage
+                            </p>
+                            <div class="button-link gold-btn">Find out more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                <a href="/shakespeares-life-and-times" class="widget-item sml tl-item">
+
+                    <!--[if !IE]> -->
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-670.jpg?sfvrsn=ab8c2321_1" data-srcset="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-1340.jpg?sfvrsn=ab8c2321_1 2x" alt="Shakespeare's life and times" class=" lazyloaded" srcset="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-1340.jpg?sfvrsn=ab8c2321_1 2x" src="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-670.jpg?sfvrsn=ab8c2321_1">
+                    <!-- <![endif]-->
+
+                    <!--[if gte IE 9]>
+                        <img data-src="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-670.jpg?sfvrsn=ab8c2321_1"
+                                alt="Shakespeare's life and times" class="lazyload" />
+                    <![endif]-->
+                           
+                    <!--[if lte IE 8]>
+                        <img src="//cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-670.jpg?sfvrsn=ab8c2321_1"
+                                alt="Shakespeare's life and times" />
+                    <![endif]-->
+
+                    <div class="item-inner">
+                        <div class="item-title">
+                            <h4>Shakespeare's life and times</h4>           
+                        </div>
+                        <div class="item-copy">
+                            <p>
+                                Discover more about the life and times of William Shakespeare, from his birth in 1564 through to his death 52 years later in 1616.
+                            </p>
+                            <div class="button-link gold-btn">Discover more</div>
+                        </div>
+                    </div>
+                </a> <!-- widget item, text list item -->
+            
+                    </div> <!-- widget holder, text list -->
+                </div> <!-- bottom feed section, homepage -->
+            
+
+    </section> <!-- section intro -->
+</div> <!-- section wrapper -->
+</span><div class="sfContentBlock"><!--
+<div class="section-wrapper lt-gray">
+<div class="homepage-popup mfp-hide" data-expires="24">
+<div class="homepage-popup--container">
+<div class="homepage-popup--content">
+<h1>A BRAND NEW MUSICAL IS COMING SOON&hellip;</h1>
+<p>To be the first to hear the latest news about our new musical, join now as a Member <strong>from &pound;20</strong> for advance information and priority booking or a Patron <strong>from &pound;150</strong> to have an even closer relationship with the RSC with exclusive events.</p>
+<div style="text-align:center;">
+<a href="https://www.rsc.org.uk/signup/?from=tbitd-pop" class="button-link gold-btn">Sign Up</a>&nbsp;&nbsp;<a href="https://www.rsc.org.uk/support/membership-levels?from=tbitd-pop" class="button-link red-btn">Join Now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+-->
+
+
+</div>
+                    
+        </article>
+
+    </main> <!-- #main -->
+
+
+        </div>
+
+        
+        
+
+        <div class="footer-container">
+            <footer>
+                <div class="footer-list">
+                    <ul>
+                        
+                        <li class="footer-section">
+        <!-- footer link, FAQs -->
+    <a class="footer-title">Get in touch</a>
+    <ul>
+        <li class="footer-link social">
+            <a href="/faqs-and-contact-us/?from=footer">
+                <svg viewBox="0 0 120 120" enable-background="new 0 0 120 120" title="FAQs">
+                    <style type="text/css">
+                        .qu{fill:#E3E6E1;}
+                    </style>
+                    <path class="qu" d="M0 0v120h120V0H0zM59 110c-7.1 0-12.8-5.7-12.8-12.8 0-7 5.6-12.8 12.8-12.8 7.1 0 12.7 5.7 12.7 12.8C71.7 104.4 66.1 110 59 110zM70.6 62.7v13.5H48.9V50h6.7c9.6 0 14.6-4 14.6-11.3 0-5.8-4.5-10.4-10-10.4 -5.7 0-9.5 3.2-9.7 9.3H28.9c0-0.1 0-0.4 0-0.5 0-16.1 12.6-26.8 32.4-26.8 18 0 29.8 11.5 29.8 28.3C91.1 52.6 82.8 62.4 70.6 62.7z"></path>
+                </svg>
+                Contact Us &amp; FAQs
+            </a>
+        </li>
+        <!-- footer link, telephone -->
+        <li class="footer-link social">
+            <a href="tel:01789331111">
+                <svg viewBox="0 560 560 560" enable-background="new 0 560 560 560" title="Telephone">
+                    <path fill="#E3E6E1" d="M0.207 560.5v560h560v-560H0.207zM504.43 993.336l-65.117 64.625c-2.938 3.266-6.773 6.039-11.504 8.324 -4.734 2.285-9.387 3.754-13.953 4.406 -0.328 0-1.309 0.082-2.941 0.246 -1.629 0.164-3.75 0.246-6.363 0.246 -6.199 0-16.238-1.062-30.109-3.184 -13.875-2.121-30.848-7.344-50.918-15.668 -20.074-8.324-42.84-20.809-68.301-37.453 -25.457-16.645-52.551-39.496-81.273-68.543 -22.848-22.523-41.778-44.066-56.793-64.629 -15.016-20.562-27.09-39.574-36.231-57.039 -9.14-17.461-15.996-33.293-20.562-47.492 -4.571-14.195-7.672-26.438-9.305-36.719 -1.633-10.281-2.285-18.359-1.957-24.234 0.324-5.875 0.488-9.141 0.488-9.793 0.653-4.57 2.121-9.219 4.407-13.953 2.285-4.734 5.058-8.566 8.324-11.504l65.117-65.117c4.57-4.57 9.793-6.855 15.668-6.855 4.242 0 7.996 1.223 11.258 3.671 3.265 2.45 6.039 5.47 8.324 9.06l52.387 99.387c2.937 5.223 3.754 10.938 2.449 17.137 -1.305 6.203-4.078 11.426-8.324 15.667l-23.989 23.989c-0.652 0.656-1.226 1.715-1.714 3.184 -0.489 1.469-0.735 2.695-0.735 3.672 1.305 6.855 4.242 14.688 8.813 23.5 3.918 7.836 9.957 17.383 18.117 28.645 8.16 11.258 19.746 24.234 34.762 38.922 14.687 15.016 27.742 26.684 39.167 35.008 11.422 8.32 20.969 14.441 28.641 18.359 7.668 3.914 13.547 6.281 17.625 7.098l6.117 1.223c0.652 0 1.715-0.246 3.184-0.734s2.531-1.059 3.184-1.715l27.906-28.395c5.879-5.223 12.73-7.836 20.562-7.836 5.551 0 9.957 0.98 13.219 2.938h0.492l94.492 55.816c6.855 4.246 10.934 9.629 12.242 16.16C512.262 981.258 509.977 987.789 504.43 993.336z"></path>
+                </svg>
+                Tickets<br>01789 331111
+            </a>
+            <br>
+            <a href="/your-visit#box-office">
+              Opening times
+            </a>
+        </li>
+        <!-- footer link, newsletter -->
+          <li class="footer-link social">
+            <a href="/signup/?from=footer">
+                <svg id="Light_grey" x="0px" y="0px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" title="Newsletter">
+                    <style type="text/css">
+                        .nl{fill:#E3E6E1;}
+                    </style>
+                    <path class="nl" d="M0 0v120h120V0H0zM110 95H10V35l50 30 50-30V95zM60 56L10 26h100L60 56z"></path>
+                </svg>
+                Newsletter
+            </a>
+        </li>
+
+        <!-- footer link, Switchboard-->
+        <style>#telSwitchboard:after{color:#464841!important}</style>
+        <li id="telSwitchboard" class="footer-link social">
+            <a href="tel:01789296655">
+                <svg viewBox="0 560 560 560" enable-background="new 0 560 560 560" title="Telephone">
+                    <path fill="#E3E6E1" d="M0.207 560.5v560h560v-560H0.207zM504.43 993.336l-65.117 64.625c-2.938 3.266-6.773 6.039-11.504 8.324 -4.734 2.285-9.387 3.754-13.953 4.406 -0.328 0-1.309 0.082-2.941 0.246 -1.629 0.164-3.75 0.246-6.363 0.246 -6.199 0-16.238-1.062-30.109-3.184 -13.875-2.121-30.848-7.344-50.918-15.668 -20.074-8.324-42.84-20.809-68.301-37.453 -25.457-16.645-52.551-39.496-81.273-68.543 -22.848-22.523-41.778-44.066-56.793-64.629 -15.016-20.562-27.09-39.574-36.231-57.039 -9.14-17.461-15.996-33.293-20.562-47.492 -4.571-14.195-7.672-26.438-9.305-36.719 -1.633-10.281-2.285-18.359-1.957-24.234 0.324-5.875 0.488-9.141 0.488-9.793 0.653-4.57 2.121-9.219 4.407-13.953 2.285-4.734 5.058-8.566 8.324-11.504l65.117-65.117c4.57-4.57 9.793-6.855 15.668-6.855 4.242 0 7.996 1.223 11.258 3.671 3.265 2.45 6.039 5.47 8.324 9.06l52.387 99.387c2.937 5.223 3.754 10.938 2.449 17.137 -1.305 6.203-4.078 11.426-8.324 15.667l-23.989 23.989c-0.652 0.656-1.226 1.715-1.714 3.184 -0.489 1.469-0.735 2.695-0.735 3.672 1.305 6.855 4.242 14.688 8.813 23.5 3.918 7.836 9.957 17.383 18.117 28.645 8.16 11.258 19.746 24.234 34.762 38.922 14.687 15.016 27.742 26.684 39.167 35.008 11.422 8.32 20.969 14.441 28.641 18.359 7.668 3.914 13.547 6.281 17.625 7.098l6.117 1.223c0.652 0 1.715-0.246 3.184-0.734s2.531-1.059 3.184-1.715l27.906-28.395c5.879-5.223 12.73-7.836 20.562-7.836 5.551 0 9.957 0.98 13.219 2.938h0.492l94.492 55.816c6.855 4.246 10.934 9.629 12.242 16.16C512.262 981.258 509.977 987.789 504.43 993.336z"></path>
+                </svg>
+                Switchboard<br>01789 296655
+            </a>
+            <br>
+        </li>
+      
+    </ul>
+</li>
+<li class="footer-section">
+    <a class="footer-title">Social media</a>
+    <ul>
+        <li class="footer-link social">
+            <a href="https://www.tiktok.com/@thersc">
+              <div class="fa-logo" style="padding-top: unset;">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="-90 0 600 538">
+                    <!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+                    <path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" style="fill: #464841;"></path>
+                </svg>
+              </div>
+                TikTok
+            </a>
+        </li>
+        <li class="footer-link social">
+            <a href="https://www.facebook.com/thersc">
+                <div class="fa-logo">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </div>
+                <!--<svg viewBox="0 0 120 120" enable-background="new 0 0 120 120">
+                    <style type="text/css">
+                        .fb{fill:#E3E6E1;}
+                    </style>
+                    <g id="Light_grey">
+                        <path class="fb" d="M0 0v120h120V0H0zM82.4 42.9L81.2 58H65.7v52.6H46.1V58H35.6V42.9h10.5V32.7c0-4.5 0.1-11.4 3.4-15.7 3.4-4.5 8.1-7.6 16.2-7.6 13.2 0 18.8 1.9 18.8 1.9l-2.6 15.5c0 0-4.4-1.3-8.4-1.3 -4.1 0-7.7 1.5-7.7 5.5v11.8H82.4z"/>
+                    </g>
+                </svg>-->
+                Facebook
+            </a>
+        </li>
+        <!-- footer link, facebook -->
+        <li class="footer-link social">
+            <a href="https://twitter.com/thersc">
+                <div class="fa-logo" style="padding-top: unset;">
+                  <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                  <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+                  <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" style="fill: #464841;"></path></svg>
+                </div>
+                <!--<svg viewBox="0 0 120 120" enable-background="new 0 0 120 120">
+                    <style type="text/css">
+                        .tw{fill:#E3E6E1;}
+                    </style>
+                    <g id="Light_grey">
+                        <path class="tw" d="M0 0v120h120V0H0zM99.8 42.5c0 0.9 0.1 1.8 0.1 2.7 0 27.1-20.6 58.4-58.4 58.4 -11.6 0-22.4-3.4-31.4-9.2 1.6 0.2 3.2 0.3 4.9 0.3 9.6 0 18.5-3.3 25.5-8.8 -9-0.2-16.6-6.1-19.2-14.2 1.2 0.2 2.5 0.4 3.9 0.4 1.9 0 3.7-0.2 5.4-0.7 -9.4-1.9-16.5-10.2-16.5-20.1v-0.3c2.8 1.5 5.9 2.5 9.3 2.6 -5.5-3.7-9.1-10-9.1-17.1 0-3.8 1-7.3 2.8-10.3 10.1 12.4 25.2 20.6 42.3 21.4 -0.4-1.5-0.5-3.1-0.5-4.7 0-11.3 9.2-20.5 20.5-20.5 5.9 0 11.2 2.5 15 6.5 4.7-0.9 9.1-2.6 13-5 -1.5 4.8-4.8 8.8-9 11.3 4.1-0.5 8.1-1.6 11.8-3.2C107.3 36 103.8 39.6 99.8 42.5z"/>
+                    </g>
+                </svg>-->
+                X
+            </a>
+        </li>
+       <!-- Footer link, threads -->
+         <li class="footer-link social">
+            <a href="https://www.threads.net/@thersc ">
+                <div class="fa-logo" style="padding-top: unset;">
+                  <!-- <i class="fa fa-instagram" aria-hidden="true"></i> -->
+             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="margin-bottom: 10px;">  
+                       
+               
+                    <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+                    <path d="M331.5 235.7c2.2 .9 4.2 1.9 6.3 2.8c29.2 14.1 50.6 35.2 61.8 61.4c15.7 36.5 17.2 95.8-30.3 143.2c-36.2 36.2-80.3 52.5-142.6 53h-.3c-70.2-.5-124.1-24.1-160.4-70.2c-32.3-41-48.9-98.1-49.5-169.6V256v-.2C17 184.3 33.6 127.2 65.9 86.2C102.2 40.1 156.2 16.5 226.4 16h.3c70.3 .5 124.9 24 162.3 69.9c18.4 22.7 32 50 40.6 81.7l-40.4 10.8c-7.1-25.8-17.8-47.8-32.2-65.4c-29.2-35.8-73-54.2-130.5-54.6c-57 .5-100.1 18.8-128.2 54.4C72.1 146.1 58.5 194.3 58 256c.5 61.7 14.1 109.9 40.3 143.3c28 35.6 71.2 53.9 128.2 54.4c51.4-.4 85.4-12.6 113.7-40.9c32.3-32.2 31.7-71.8 21.4-95.9c-6.1-14.2-17.1-26-31.9-34.9c-3.7 26.9-11.8 48.3-24.7 64.8c-17.1 21.8-41.4 33.6-72.7 35.3c-23.6 1.3-46.3-4.4-63.9-16c-20.8-13.8-33-34.8-34.3-59.3c-2.5-48.3 35.7-83 95.2-86.4c21.1-1.2 40.9-.3 59.2 2.8c-2.4-14.8-7.3-26.6-14.6-35.2c-10-11.7-25.6-17.7-46.2-17.8H227c-16.6 0-39 4.6-53.3 26.3l-34.4-23.6c19.2-29.1 50.3-45.1 87.8-45.1h.8c62.6 .4 99.9 39.5 103.7 107.7l-.2 .2zm-156 68.8c1.3 25.1 28.4 36.8 54.6 35.3c25.6-1.4 54.6-11.4 59.5-73.2c-13.2-2.9-27.8-4.4-43.4-4.4c-4.8 0-9.6 .1-14.4 .4c-42.9 2.4-57.2 23.2-56.2 41.8l-.1 .1z" style="
+                        fill: #464841;
+                    "></path></svg>
+                    </div>
+               
+                Threads
+            </a>
+        </li>
+        <!-- footer link, twitter -->
+        <li class="footer-link social">
+          <a href="https://www.instagram.com/thersc/">
+            <div class="fa-logo">
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+            </div>
+            <!--<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="-64 66 120 120" enable-background="new -64 66 120 120">
+                  <style type="text/css">
+                    .st0{fill:#E3E6E1;}
+                  </style>
+                  <path class="st0" d="M-64 66v120H56V66H-64zM-29.8 172.1h-19.4v-62.4h19.4V172.1zM-39.5 101.2c-6.2 0-11.3-5-11.3-11.3 0-6.2 5-11.2 11.3-11.2 6.2 0 11.2 5 11.2 11.2C-28.2 96.2-33.3 101.2-39.5 101.2zM42.9 172.1H23.5v-30.3c0-7.2-0.1-16.6-10.1-16.6 -10.1 0-11.6 7.9-11.6 16v30.9h-19.4v-62.4H1v8.5h0.3c2.6-4.9 8.9-10.1 18.4-10.1 19.6 0 23.3 12.9 23.3 29.7V172.1z"/>
+                </svg>-->
+            Instagram
+          </a>
+        </li>
+        <!-- footer link, Instagram -->
+        <li class="footer-link social">
+            <a href="https://www.youtube.com/user/theRSC">
+              <div class="fa-logo">
+                <i class="fa fa-youtube" aria-hidden="true"></i>
+              </div>
+                <!--<svg id="Light_grey" x="0px" y="0px" viewBox="0 0 120 120" enable-background="new 0 0 120 120">
+                    <style type="text/css">
+                        .st0{fill:#E3E6E1;}
+                    </style>
+                    <g>
+                        <path class="st0" d="M0 0v120h120V0H0zM72 19.7h5v20.5c0 1.2 0 1.8 0.1 2 0.1 0.8 0.5 1.2 1.2 1.2 1 0 2.1-0.8 3.2-2.4V19.7h5v27.9h-5v-3c-2 2.3-3.9 3.4-5.8 3.4 -1.6 0-2.7-0.7-3.3-2.1C72.1 45 72 43.7 72 41.7V19.7zM52.9 28.8c0-3 0.5-5.2 1.6-6.6 1.4-1.9 3.4-2.9 5.9-2.9 2.5 0 4.5 1 5.9 2.9 1.1 1.4 1.6 3.6 1.6 6.6v9.8c0 3-0.5 5.2-1.6 6.6 -1.4 1.9-3.4 2.9-5.9 2.9 -2.5 0-4.5-1-5.9-2.9 -1.1-1.4-1.6-3.6-1.6-6.6V28.8zM39.4 10.2l4 14.7 3.8-14.7h5.7l-6.7 22.2v15.1h-5.6V32.4c-0.5-2.7-1.6-6.6-3.4-11.8 -1.2-3.5-2.4-7-3.6-10.4H39.4zM99.9 100.9c-1 4.4-4.6 7.6-8.9 8.1 -10.3 1.1-20.6 1.1-31 1.1 -10.3 0-20.7 0-31-1.1 -4.3-0.5-7.9-3.7-8.9-8.1 -1.4-6.3-1.4-13.1-1.4-19.5 0-6.5 0-13.3 1.5-19.5 1-4.4 4.6-7.6 8.9-8.1 10.3-1.1 20.6-1.2 31-1.1 10.3 0 20.7 0 31 1.1 4.3 0.5 7.9 3.7 8.9 8.1 1.4 6.3 1.4 13.1 1.4 19.5C101.3 87.8 101.3 94.6 99.9 100.9z"/>
+                        <g>
+                            <path class="st0" d="M71.8 71.3c-1.8 0-3.5 1-5.2 3V62.2h-5v37h5v-2.7c1.7 2.1 3.4 3.1 5.2 3.1 2 0 3.3-1 4-3.1 0.3-1.2 0.5-3 0.5-5.6V80c0-2.6-0.2-4.4-0.5-5.5C75.1 72.4 73.8 71.3 71.8 71.3zM71.3 91.4c0 2.5-0.7 3.7-2.2 3.7 -0.8 0-1.7-0.4-2.5-1.2V77.1c0.8-0.8 1.7-1.2 2.5-1.2 1.4 0 2.2 1.3 2.2 3.8V91.4z"/>
+                            <path class="st0" d="M52.3 92.8c-1.1 1.6-2.2 2.3-3.2 2.3 -0.7 0-1-0.4-1.2-1.2 0-0.2 0-0.8 0-1.9V71.7h-5v21.8c0 1.9 0.2 3.3 0.4 4.1 0.5 1.4 1.6 2.1 3.2 2.1 1.8 0 3.7-1.1 5.7-3.4v3h5V71.7h-5V92.8z"/>
+                            <path class="st0" d="M87.7 71.3c-2.5 0-4.5 0.9-6 2.8 -1.1 1.4-1.5 3.5-1.5 6.5v9.7c0 2.9 0.5 5.1 1.6 6.5 1.4 1.9 3.4 2.8 6 2.8 2.6 0 4.7-1 6-3 0.6-0.9 1-1.9 1.2-3 0-0.5 0.1-1.6 0.1-3.2v-0.7h-5.1c0 2-0.1 3.1-0.1 3.4 -0.3 1.3-1 2-2.2 2 -1.7 0-2.5-1.3-2.5-3.8v-4.9h10v-5.7c0-2.9-0.5-5.1-1.5-6.5C92.2 72.3 90.2 71.3 87.7 71.3zM90.2 82.2h-5v-2.5c0-2.5 0.8-3.8 2.5-3.8 1.7 0 2.5 1.3 2.5 3.8V82.2z"/>
+                            <polygon class="st0" points="24.8 67.5 30.7 67.5 30.7 99.2 36.3 99.2 36.3 67.5 42.2 67.5 42.2 62.2 24.8 62.2 "/>
+                        </g>
+                        <path class="st0" d="M60.4 43.4c1.6 0 2.4-1.3 2.4-3.9V27.8c0-2.6-0.8-3.9-2.4-3.9 -1.6 0-2.4 1.3-2.4 3.9v11.7C58 42.1 58.7 43.4 60.4 43.4z"/>
+                    </g>
+                </svg>-->
+                YouTube
+            </a>
+        </li>
+        <!-- footer link, youtube -->        
+        <li class="footer-link social">
+            <a href="https://www.linkedin.com/company/royal-shakespeare-company">
+              <div class="fa-logo">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+              </div>
+                <!--<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="-64 66 120 120" enable-background="new -64 66 120 120">
+                    <style type="text/css">
+                        .st0{fill:#E3E6E1;}
+                    </style>
+                    <path class="st0" d="M-64 66v120H56V66H-64zM-29.8 172.1h-19.4v-62.4h19.4V172.1zM-39.5 101.2c-6.2 0-11.3-5-11.3-11.3 0-6.2 5-11.2 11.3-11.2 6.2 0 11.2 5 11.2 11.2C-28.2 96.2-33.3 101.2-39.5 101.2zM42.9 172.1H23.5v-30.3c0-7.2-0.1-16.6-10.1-16.6 -10.1 0-11.6 7.9-11.6 16v30.9h-19.4v-62.4H1v8.5h0.3c2.6-4.9 8.9-10.1 18.4-10.1 19.6 0 23.3 12.9 23.3 29.7V172.1z"/>
+                </svg>-->
+                LinkedIn
+            </a>
+        </li>
+        <!-- footer link, linkedin -->
+    </ul>
+</li>
+                        <li class="footer-section">
+<a href="https://www.rsc.org.uk/commercial?from=footer" class="footer-title">Commercial</a>
+<ul>
+    <li class="footer-link"><a href="https://www.rsc.org.uk/commercial/nursery/?from=footer">Nursery</a></li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/commercial/image-film-licensing/?from=footer ">Image and Film Licensing</a></li>
+    <li><a href="https://www.rsc.org.uk/commercial/costume-hire/?from=footer">Costume hire</a></li>
+    <li><a href="https://www.rsc.org.uk/prop-hire/?from=footer">Prop hire</a>&nbsp;</li>
+</ul>
+</li>
+<li class="footer-section">
+<a href="https://www.rsc.org.uk/ticket-prices-and-discounts/" onclick="return false;" class="footer-title">Ticket information</a>
+<ul>
+    <li class="footer-link"><a href="https://www.rsc.org.uk/ticket-prices-discounts-offers/">Ticket prices &amp; discounts</a></li>
+    <li class="footer-link"><a href="https://www.rsc.org.uk/buy-tickets/booking-for-online-performances/">Booking for online events &amp; performances</a></li>
+    <li class=" footer-link" =""="">
+    <a href="https://www.rsc.org.uk/legal/ticketing-terms/">Terms &amp; Conditions</a>
+    </li>
+</ul>
+<br>
+<a href="http://www.star.org.uk">
+<img src="https://cdn2.rsc.org.uk/sitefinity/images/rsc/legal-compliance-images/star-logo-rsc.jpg" alt="The Society of Ticket Agents &amp; Retailers">
+</a>
+</li>
+<li class="footer-section">
+<a href="https://www.rsc.org.uk/press/" class="footer-title">Press</a>
+<ul>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/press/releases/?from=footer">Latest press releases</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/press/press-resources/?from=footer">Press resources</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/press/press-resources/press-images/?from=footer">Press images</a>
+    </li>
+</ul>
+<br>
+<a href="https://www.rsc.org.uk/about-us/policies" class="footer-title">Legal and Policies</a>
+<ul>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/legal/website-terms-and-conditions/?from=footer">Website Terms &amp; Conditions</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/legal/privacy-policy/?from=footer">Privacy</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/legal/cookies/?from=footer">Cookies</a></li>
+    <li class="footer-link"><a href="https://www.rsc.org.uk/about-us/policies/?from=footer" title="" class="" target=""><strong>More policies</strong></a><br>
+    &nbsp;</li>
+</ul>
+</li>
+<li class="footer-section">
+<a href="https://www.rsc.org.uk/your-visit/access/" class="footer-title">Access</a>
+<ul>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/your-visit/access/assisted-performances/?from=footer">Assisted Performances</a>
+    <!-- <a href="https://www.rsc.org.uk/your-visit/access/audio-enhancement-equipment/?from=footer">Audio Enhancement Equipment</a> -->
+    </li>
+</ul>
+<br>
+<a href="https://www.rsc.org.uk/jobs-and-careers/" class="footer-title">Jobs</a>
+<ul>
+    <li class="footer-link">
+    <a href="https://careers.rsc.org.uk/jobs/vacancy/find/results/">Current vacancies</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/jobs/meet-our-people/?from=footer">Meet our people</a>
+    </li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/jobs/benefits-and-perks/?from=footer">Benefits and perks</a></li>
+    <li class="footer-link">
+    <a href="https://www.rsc.org.uk/jobs-and-careers/next-generation-work-experience?from=footer">Talent development programme</a></li>
+</ul>
+</li>
+                    </ul>
+                </div>
+
+                <div class="footer-list">
+                    <ul id="footerLogos">
+                        <li>
+                            <p style="color: #e3e6e1; font-size: 12.8px; padding-bottom: 20px;">
+                                The RSC is a registered charity (no. 212481)
+                                    <br>
+                                ©
+                                2024
+                                Royal Shakespeare Company
+                                <br>
+                            </p>
+                        </li>
+                        <li>
+                            <a href="https://www.fundraisingregulator.org.uk/">
+                                <img style="max-height: 43px;" src="https://cdn2.rsc.org.uk/sitefinity/images/sponsor-logos/fundraising-regulator-registered-logo.png" alt="Fundraising Regulator">
+                            </a>
+                        </li>
+                        <li class="culture-recovery-fund">
+                            <p style="color: #e3e6e1; font-size: 14px; padding-bottom: 20px;">
+                                The work of the RSC is supported by the Culture Recovery Fund
+                            </p>
+                        </li>
+                        <li>
+                            <a href="http://www.artscouncil.org.uk/">
+                                <img src="https://cdn.rsc.org.uk/sitefinity/images/sponsor-logos/artscouncil.png" alt="Arts Council England">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </footer>
+        </div>
+
+        
+            <div class="info-popup cookie-bar here" id="cookieBar" style="visibility: visible; opacity: 1; bottom: 16px;">
+                <!-- Cookie Policy Message -->
+                <div class="info-inner cookie-info">
+                    <div class="info-copy cookie-copy">
+                        We use cookies on this website. By using this site you agree that we may store and access cookies on your device.
+                            <span class="learn"><a href="/legal/cookies" class="on-dk-gray">Find out more</a> about how we use cookies and your options to change your acceptance of cookies.</span><!-- </span> -->
+                    </div>
+                    <!-- cookie copy -->
+                    <div class="info-close cookie-close">
+                        <div class="close-btn red">
+                            <!-- <span class="hide"> -->
+                            Close
+                        </div>
+                    </div>
+                    <!-- cookie close -->
+                </div>
+                <!-- cookie info -->
+            </div>
+        
+
+        
+            
+        
+
+        <div>
+                <input name="__RequestVerificationToken" type="hidden" value="Z9UmwL8qEV3l9mThl8FKP-RMrlGgF5VIqM9k0znNXTEqVQmtQMcydzgwTIHhMHkvo2gD2NySIvxAxiGo80ZyuZe74rU1">
+            </div>
+    <script type="text/javascript">
+	StatsClient.LogVisit('c08832ee-74f7-6138-967e-ff00002337f7', 'd037bddb-3072-4b61-9059-5b337c86060d');
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var sf_appPath='/';var sf_appPath='/';//]]>
+</script>
+</form>
+
+    <!-- Vendor JS -->
+    <script src="https://cdn2.rsc.org.uk/sitefinity/website-assets/js/vendor/vendor-foot69fb66ee74f76138967eff00002337f7.js?sfvrsn=4d0e2a21_20"></script>
+
+    
+        <script src="https://cdn.rsc.org.uk/sitefinity/website-assets/js/vendor/jquery-sharrre-min.js"></script>
+    
+
+    
+
+    
+
+    <script type="text/javascript">
+        //<![CDATA[       
+        var timerconfig = {
+            getSessionTimeRemaining: "/RSC/endpoints/Session-GetTimeRemaining.ashx",
+            extendSessionTime: "/RSC/endpoints/Session-ExtendTimeRemaining.ashx",
+            endSessionTime: "/RSC/endpoints/Session-EndSeatServerSession.ashx",
+            minutesLeftBeforeShowSeconds: 5,
+            expiredMessage: "Your tickets have been released - please select your tickets again",
+            basketPathName: "basket",
+            checkoutPathName: "checkout",
+            expiredMessage: "Your tickets have been released - please select your tickets again",
+            defaultMessage: "Your items will be removed from your <a href='/basket'>basket</a> in <span class='sessionTimeRemaining' class='Timer heavy'></span>. <br />",
+            defaultMessageMobile: "<span class='sessionTimeRemaining' class='Timer heavy'></span>",
+            defaultMessageModal: "Your tickets will be removed from your <a href='/basket'>basket</a> in <span class='sessionTimeRemaining' class='Timer heavy'></span>. <br /><br />",
+            extendMessage: "<span class='extends-remaining'>Your tickets will be released soon - would you like to <a href='#' class='extend-time'>add more time</a>?</span>",
+            minutesLeftBeforeAllowExtend: 3,
+            extendFunctionality: true
+        };
+        //]]>
+    </script>
+
+    <script src="https://cdn2.rsc.org.uk/sitefinity/website-assets-live/script-min.js?sfvrsn=a9a2921_590"></script>
+
+    
+
+        <script>
+
+        function LoadTopLevelLogin() {
+            var ajaxTarget = "/RSC/AJAX/TopLevelLogin.aspx";
+            var refererQuery = "?referer=" + window.location.pathname + window.location.search;
+            var pageFragment = "#MobileTopLevelLogin";
+            var theLink = ajaxTarget + refererQuery + " " + pageFragment;
+
+            $("#globalNav .search-nav li:first-of-type").load(theLink, function () {
+                $("#MobileTopLevelLogin").clone().prependTo(".login-search");
+            });
+        }
+
+        function hideEmptyCrossPromo() {
+            
+            $(".bottom-feed").each(function () {
+                var $widgetHolder = $(this).find(".widget-holder");
+                if ($widgetHolder.children().length == 0) {
+                    $(this).hide();
+                }
+            });
+
+            $("section.related").each(function () {
+                var $widgetHolder = $(this).find(".widget-holder");
+                if ($widgetHolder.children().length == 0) {
+                    $(this).hide();
+                }
+            });
+
+        }
+        
+        $(document).ready(function () {
+            LoadTopLevelLogin();
+            hideEmptyCrossPromo();
+        });
+
+    </script>
+
+
+    <!-- Timer and Modal JS -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            jQuery.fx.off = true; // disables hide/show animations!
+
+            // open and close modal
+            $(".basket-icon-holder").on('click', function () {
+                
+                $("#timerModal").toggle('fast', function () {
+                    $("body").toggleClass("noscroll");
+                });
+            });
+
+            $('.close').on('click', function () {
+                $('#timerModal').hide();
+                $("body").removeClass("noscroll");
+            });
+
+            var modal = document.getElementById("timerModal");
+
+            $(window).on("click", function (event) {
+                if (event.target == modal) {
+                    $("#timerModal").hide();
+                    $("body").removeClass("noscroll");
+                }
+            });
+            
+            // respond on resize
+            $(window).resize(function () {
+
+                if ($("body").hasClass("timer")) {
+
+                    if ($(window).width() < 773) {
+                        $('.basket-icon-holder').show();
+                        $('.timer-outer-mbl').show();
+                        $('.timer-outer').hide();
+                    }
+                    else {
+                        $('.basket-icon-holder').hide();
+                        $('.timer-outer-mbl').hide();
+                        $('.timer-outer').show();
+                        $('#timerModal').hide();
+                    }
+
+                }
+                else {
+                    $('.basket-icon-holder').hide();
+                    $('.timer-outer').hide();
+                    $('#timerModal').hide();
+                }
+            });
+        });
+    </script>
+
+
+
+<script type="text/javascript" id="">/*
+ @preserve
+ jquery.scrolldepth.js | v0.7.1
+ Copyright (c) 2014 Rob Flaherty (@robflaherty)
+ Licensed under the MIT and GPL licenses.
+*/
+(function(e,l,q,z){var u={minHeight:0,elements:[],percentage:!0,userTiming:!0,pixelDepth:!0,nonInteraction:!0},h=e(l),k=[],g=0,m,n,f;e.scrollDepth=function(a){function r(b,a){f?f({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:b,eventLabel:"Baseline",eventValue:1,eventNonInteraction:!0}):(m&&ga("send","event","Scroll Depth",b,"Baseline",1,{nonInteraction:!0}),n&&_gaq.push(["_trackEvent","Scroll Depth",b,"Baseline",1,!0]))}function t(b,c,d,p){f?(f({event:"ScrollDistance",eventCategory:"Scroll Depth",
+eventAction:b,eventLabel:c,eventValue:1,eventNonInteraction:a.nonInteraction}),a.pixelDepth&&2<arguments.length&&d>g&&(g=d,f({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:"Pixel Depth",eventLabel:(250*Math.floor(d/250)).toString(),eventValue:1,eventNonInteraction:a.nonInteraction})),a.userTiming&&3<arguments.length&&f({event:"ScrollTiming",eventCategory:"Scroll Depth",eventAction:b,eventLabel:c,eventTiming:p})):(m&&(ga("send","event","Scroll Depth",b,c,1,{nonInteraction:a.nonInteraction}),
+a.pixelDepth&&2<arguments.length&&d>g&&(g=d,ga("send","event","Scroll Depth","Pixel Depth",(250*Math.floor(d/250)).toString(),1,{nonInteraction:a.nonInteraction})),a.userTiming&&3<arguments.length&&ga("send","timing","Scroll Depth",b,p,c)),n&&(_gaq.push(["_trackEvent","Scroll Depth",b,c,1,a.nonInteraction]),a.pixelDepth&&2<arguments.length&&d>g&&(g=d,_gaq.push(["_trackEvent","Scroll Depth","Pixel Depth",(250*Math.floor(d/250)).toString(),1,a.nonInteraction])),a.userTiming&&3<arguments.length&&_gaq.push(["_trackTiming",
+"Scroll Depth",b,p,c,100])))}function v(b,a,d){e.each(b,function(b,c){-1===e.inArray(b,k)&&a>=c&&(t("Percentage",b,a,d),k.push(b))})}function w(b,a,d){e.each(b,function(b,c){-1===e.inArray(c,k)&&e(c).length&&a>=e(c).offset().top&&(t("Elements",c,a,d),k.push(c))})}function x(b,a){var d,c,e,f=null,g=0,k=function(){g=new Date;f=null;e=b.apply(d,c)};return function(){var h=new Date;g||(g=h);var l=a-(h-g);d=this;c=arguments;0>=l?(clearTimeout(f),f=null,g=h,e=b.apply(d,c)):f||(f=setTimeout(k,l));return e}}
+var y=+new Date;a=e.extend({},u,a);e(q).height()<a.minHeight||("function"===typeof ga&&(m=!0),"undefined"!==typeof _gaq&&"function"===typeof _gaq.push&&(n=!0),"function"===typeof a.eventHandler?f=a.eventHandler:"undefined"!==typeof dataLayer&&"function"===typeof dataLayer.push&&(f=function(a){dataLayer.push(a)}),a.percentage?r("Percentage"):a.elements&&r("Elements"),h.on("scroll.scrollDepth",x(function(){var b=e(q).height(),c=l.innerHeight?l.innerHeight:h.height();c=h.scrollTop()+c;b={"25%":parseInt(.25*
+b,10),"50%":parseInt(.5*b,10),"75%":parseInt(.75*b,10),"100%":b-5};var d=+new Date-y;k.length>=4+a.elements.length?h.off("scroll.scrollDepth"):(a.elements&&w(a.elements,c,d),a.percentage&&v(b,c,d))},500)))}})(jQuery,window,document);jQuery.scrollDepth();</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","148300129065509");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=148300129065509&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","403093056830506");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id= 403093056830506&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<div style="display: none; visibility: hidden;"><script>var versaTag={id:"3581",sync:0,dispType:"js",ptcl:"HTTPS",bsUrl:"bs.serving-sys.com/BurstingPipe",activityParams:{OrderID:"",Session:"",Value:"",productid:"",productinfo:"",Quantity:""},retargetParams:{},dynamicRetargetParams:{},conditionalParams:{}};</script>
+<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script></div>
+<iframe allow="join-ad-interest-group" data-tagging-id="AW-750515662/reptCLymgpoCEM7r7-UC" data-load-time="1709378214993" height="0" width="0" style="display: none; visibility: hidden;" src="https://td.doubleclick.net/td/rul/750515662?random=1709378214980&amp;cv=11&amp;fst=1709378214980&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be42t1z871450735za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fwww.rsc.org.uk%2F&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;label=reptCLymgpoCEM7r7-UC&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Royal%20Shakespeare%20Company%20%7C%20RSC&amp;value=0&amp;bttype=purchase&amp;npa=0&amp;pscdl=noapi&amp;auid=301733940.1705574105&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B122.0.6261.95%7CNot(A%253ABrand%3B24.0.0.0%7CGoogle%2520Chrome%3B122.0.6261.95&amp;uamb=0&amp;uap=Windows&amp;uapv=10.0.0&amp;uaw=0&amp;fledge=1&amp;capi=1&amp;ct_cookie_present=0" data-gtm-yt-inspected-11="true"></iframe><script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:1468248,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><iframe id="_hjSafeContext_7011545" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" data-gtm-yt-inspected-11="true"></iframe></body></html>

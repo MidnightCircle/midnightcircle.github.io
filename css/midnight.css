@@ -22,7 +22,7 @@
     --mct-head-txt-col: #eee2df; /* Heading text colour */
     --mct-foot-txt-col: #eee2df; /* Footer text colour */
     --mct-link-txt-col: #eee2df; /* Link text colour */
-    --mct-link-hover-txt-col: #eee2df; /* Link hover text colour */
+    --mct-link-hover-txt-col: #ff0000; /* Link hover text colour */
     --mct-content-width: 60%; /* Content width in desktop mode */
 }
 
@@ -108,6 +108,13 @@ img {
     width: 100%;
 }
 
+ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .page-content {
     max-width: 1024px;
     margin: auto;
@@ -132,6 +139,7 @@ img {
     font-size: var(--mct-h1-txt-size);
     margin:10px;
 }
+
 
 
 /*
@@ -248,9 +256,10 @@ footer {
     box-sizing: border-box;
 }
 
-
-
-
+.footer-img {
+    max-width: 100px;
+    margin: 5px;
+}
 
 /* Responsive layout  */
 @media (max-width: 800px) {
@@ -283,4 +292,186 @@ footer {
         .topnav #myLinks {
             width: 100%;
         }
+
+    .footer-img {
+        max-width: 50px;
+    }
+}
+
+
+
+/* Nabbed from RSC site (and modified) */
+.footer-list {
+    /*max-width: 1440px;*/
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #e3e6e1;
+    border-bottom: 1px solid #e3e6e1;
+    margin-bottom: 2rem
+}
+
+    .footer-list:after {
+        content: " ";
+        display: block;
+        clear: both
+    }
+
+    .footer-list:last-child {
+        border: none;
+        margin-bottom: 0
+    }
+
+.footer-title {
+    margin-bottom: .2rem;
+    display: block;
+    font-size: 1.2rem
+}
+
+@media (min-width:1024px) {
+    .footer-title {
+        font-size: 1.5rem
+    }
+}
+
+li.footer-section, li.footer-section-large {
+    line-height: 150%
+}
+
+li.footer-section {
+    width: 80.5556%;
+    float: left;
+    margin-bottom: 2rem;
+    margin-left: 6.9444%
+}
+
+@media (min-width:480px) {
+    li.footer-section {
+        width: 30.5556%;
+        float: left;
+        margin-left: 1.3889%;
+        margin-right: 1.3889%
+    }
+
+        li.footer-section:nth-child(4) {
+            clear: both
+        }
+
+        li.footer-section:last-child {
+            float: right
+        }
+}
+
+#footerLogos li:nth-child(2) {
+    margin-bottom: 22px
+}
+
+@media (min-width:790px) {
+    li.footer-section {
+        width: 13.8889%;
+        float: left;
+        margin-left: 1.3889%;
+        margin-right: 1.3889%
+    }
+
+        li.footer-section:nth-child(4) {
+            clear: none
+        }
+
+    #footerLogos {
+        display: flex;
+        justify-content: space-around
+    }
+
+        #footerLogos li:nth-child(2) {
+            all: unset
+        }
+}
+
+.culture-recovery-fund {
+    width: 17%
+}
+
+@media (max-width:790px) {
+    .culture-recovery-fund {
+        width: 100%
+    }
+}
+
+.footer-link {
+    display: inline-block;
+    margin-right: .5rem
+}
+
+    .footer-link:after {
+        content: " |";
+        margin-left: .5rem;
+        color: #b4baae
+    }
+
+    .footer-link:last-child:after {
+        content: "";
+        margin-left: 0
+    }
+
+    .footer-link.social {
+        margin-top: .5rem
+    }
+
+        .footer-link.social circle, .footer-link.social path {
+            fill: #e3e6e1
+        }
+
+        .footer-link.social .fa-logo {
+            background-color: #e3e6e1;
+            color: #464841;
+            height: 16px;
+            width: 16px;
+            font-size: 14px;
+            float: left;
+            margin-top: 2px;
+            margin-right: 5px;
+            padding-top: 1px
+        }
+
+            .footer-link.social .fa-logo .fa {
+                vertical-align: super;
+                display: block;
+                text-align: center
+            }
+
+            .footer-link.social .fa-logo .fa-facebook {
+                margin-top: 1px
+            }
+
+        .footer-link.social a:hover circle, .footer-link.social a:hover path {
+            fill: var(--mct-link-hover-txt-col)
+        }
+
+        .footer-link.social a:hover .fa-logo {
+            background-color: var(--mct-link-hover-txt-col)
+        }
+
+    .footer-link svg {
+        height: 1rem;
+        width: 1rem
+    }
+
+        .footer-link svg path {
+            transition: all .4s ease-out
+        }
+
+@media (min-width:480px) {
+    .footer-link {
+        display: block;
+        margin-right: 0
+    }
+
+        .footer-link:after {
+            content: "";
+            margin-left: 0
+        }
+}
+
+#footerLogos, li.footer-section-large, li.footer-section-medium {
+    text-align: center
 }
