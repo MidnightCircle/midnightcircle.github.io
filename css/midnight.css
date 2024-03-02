@@ -97,7 +97,6 @@ h1 {
     font-family: 'Cinzel Decorative';
     text-align: center;
     font-size: var(--mct-h1-txt-size);
-    padding-bottom: 20px;
     max-height: 999999px;
 }
 
@@ -155,7 +154,14 @@ ul {
     margin:10px;
 }
 
-
+.mc-spacer {
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../images/mc-logo.png");
+    background-size: contain;
+}
 
 /*
     Burger menu
