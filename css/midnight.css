@@ -98,21 +98,28 @@ h1 {
     text-align: center;
     font-size: var(--mct-h1-txt-size);
     padding-bottom: 20px;
+    max-height: 999999px;
 }
 
 h2 {
     font-family: 'Cinzel Decorative';
     text-align: center;
     font-size: var(--mct-h2-txt-size);
+    max-height: 999999px;
 }
 
 h3 {
     font-family: 'Cinzel Decorative';
     font-size: var(--mct-h3-txt-size);
+    max-height: 999999px;
 }
 
 img {
     width: 100%;
+}
+
+div {
+    max-height: 999999px;
 }
 
 ul {
@@ -125,6 +132,7 @@ ul {
 .page-content {
     max-width: 1024px;
     margin: auto;
+    max-height: 999999px;
 }
 
 .review-bar {
