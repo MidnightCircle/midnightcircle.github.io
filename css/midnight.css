@@ -13,12 +13,12 @@
     --mct-content-bkg-col: #01081d; /* Content background colour */
     --mct-footer-bkg-col: #01081d; /* Footer background colour */
     --mct-body-bkg-col: #01081d; /* Body background colour */
-    --mct-h1-txt-size: 20px; /* H1 text size */
-    --mct-h2-txt-size: 18px; /* H2 text size */
-    --mct-h3-txt-size: 16px; /* H2 text size */
-    --mct-body-txt-size: 16px; /* Body text size */
-    --mct-nav-txt-size: 16px; /* Navigation text size */
-    --mct-foot-txt-size: 14px; /* Footer text size */
+    --mct-h1-txt-size: 18px; /* H1 text size */
+    --mct-h2-txt-size: 16px; /* H2 text size */
+    --mct-h3-txt-size: 14px; /* H2 text size */
+    --mct-body-txt-size: 14px; /* Body text size */
+    --mct-nav-txt-size: 14px; /* Navigation text size */
+    --mct-foot-txt-size: 12px; /* Footer text size */
     --mct-body-txt-col: #eee2df; /* Body text colour */
     --mct-head-txt-col: #eee2df; /* Heading text colour */
     --mct-foot-txt-col: #eee2df; /* Footer text colour */
@@ -252,6 +252,7 @@ footer {
     width: 60%;
     margin: auto;
     overflow-wrap: normal;
+    text-align:justify;
 }
 
 .home-div {
