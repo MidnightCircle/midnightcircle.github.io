@@ -296,6 +296,26 @@ footer {
     margin: 5px;
 }
 
+/* Table layout */
+.div-table {
+    display: table;
+    width: auto;
+    margin:auto;
+    border-spacing: 10px; /* cellspacing:poor IE support for  this */
+}
+
+.div-table-row {
+    display: table-row;
+    width: auto;
+    clear: both;
+}
+
+.div-table-col {
+    float: left; /* fix for  buggy browsers */
+    display: table-column;
+    width: 150px;
+}
+
 /* Responsive layout  */
 @media (max-width: 800px) {
 
@@ -335,7 +355,7 @@ footer {
 
 
 
-/* Nabbed from RSC site (and modified) */
+/* More footer styles */
 .footer-list {
     /*max-width: 1440px;*/
     margin-left: auto;
