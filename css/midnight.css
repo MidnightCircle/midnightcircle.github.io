@@ -23,6 +23,7 @@
     --mct-head-txt-col: #eee2df; /* Heading text colour */
     --mct-foot-txt-col: #eee2df; /* Footer text colour */
     --mct-link-txt-col: #eee2df; /* Link text colour */
+    --mct-link-alt-col: #83c4e1; /* Link text colour */
     --mct-link-hover-txt-col: #ff0000; /* Link hover text colour */
     --mct-content-width: 60%; /* Content width in desktop mode */
 }
@@ -281,7 +282,7 @@ footer {
 }
 
 .links-box {
-    text-align:center;
+    text-align: center;
 }
 
 .bio {
@@ -296,12 +297,16 @@ footer {
     margin: 5px;
 }
 
+.link-col {
+    color: var(--mct-link-alt-col);
+}
+
 /* Table layout */
 .div-table {
     display: table;
     width: auto;
     margin:auto;
-    border-spacing: 10px; /* cellspacing:poor IE support for  this */
+    border-spacing: 10px;
 }
 
 .div-table-row {
@@ -350,6 +355,14 @@ footer {
 
     .footer-img {
         max-width: 50px;
+    }
+
+    .div-table {
+        margin-left: 10px;
+    }
+
+    .div-table-col {
+        width: 120px;
     }
 }
 
@@ -458,7 +471,6 @@ li.footer-section {
 }
 
     .footer-link:after {
-        content: " |";
         margin-left: .5rem;
         color: #b4baae
     }
