@@ -11,6 +11,12 @@
     --darkAccent-hsl: 330,2.44%,16.08%
 }
 
+.mobile-nav {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    display: none;
+}
+
 [data-section-theme="white"] {
     --course-item-nav-text-color: hsla(var(--black-hsl),1);
     --tweak-blog-item-pagination-icon-color: hsla(var(--black-hsl),1);
@@ -3232,7 +3238,7 @@
 }
 
 :root {
-    --base-font-size: 16px;
+    --base-font-size: 20px;
     --heading-font-font-family: Cinzel Decorative;
     --heading-font-font-style: normal;
     --heading-font-font-weight: 400;
