@@ -1,0 +1,175 @@
+﻿body {
+    padding: 0px;
+}
+
+.body-content {
+    padding-top: 100px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+h1, h2, h3 {
+    font-family: 'Cinzel Decorative';
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3vw;
+    color: #FFF;
+}
+
+@media only screen and (max-width: 1000px) {
+    h1 {
+        font-size: 6vw;
+    }
+}
+
+footer {
+    background-color: antiquewhite;
+}
+
+.highlight-text {
+    font-family: Cardo;
+    color: #FFF;
+    text-align: center;
+}
+
+.full-page-box {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.right-banner {
+    position:absolute;
+    width: 40%;
+    bottom: 15%;
+    right: 5%;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+
+.logo-img {
+    width: 200px;
+    padding: 0px;
+}
+
+.burger-wrap {
+    padding: 20px;
+}
+
+.dropdown-menu {
+    width:200px;
+    background-color: var(--body-bkg-col);
+    font-size: var(--body-font-size);
+    
+}
+
+.nav-dropdown > li > a {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.full-img {
+    width: 100%;
+    margin: 0px;
+}
+
+.top-pad-50 {
+    padding-top: 50px;
+}
+
+.top-pad-40 {
+    padding-top: 40px;
+}
+
+.top-pad-50 {
+    padding-top: 50px;
+}
+
+.top-pad-30 {
+    padding-top: 30px;
+}
+
+.top-pad-20 {
+    padding-top: 20px;
+}
+
+.top-pad-10 {
+    padding-top: 10px;
+}
+
+.hide-small {
+    display: block !important;
+}
+
+.test {
+    border: 2px solid red;
+}
+
+.award-img {
+    width: 80%;
+    margin: auto;
+    display: block;
+    margin:20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .hide-small {
+        display: none !important;
+    }
+}
+
+.award-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+    .award-container > div {
+        width: 200px;
+        margin: 10px;
+        
+    }
+
+        .award-container > div > img {
+            width: 100%;
+            margin: 0;
+            position: relative;
+            top: 50%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+
+.contact-block {
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    
+}
+
+.social-media {
+}
+    .social-media > a {
+        zoom: 200%;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+    }
