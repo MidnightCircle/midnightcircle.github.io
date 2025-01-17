@@ -3,7 +3,7 @@
  */
 const whatsOn = [
     {
-        title: "A Midsummer NIGHTMARE",
+        title: "A Midsummer <s>Night's Dream</s> NIGHTMARE",
         link: "nightmare.html"
     }
 ];
