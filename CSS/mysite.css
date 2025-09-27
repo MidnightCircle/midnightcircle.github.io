@@ -10,6 +10,7 @@
 
 h1, h2, h3 {
     font-family: 'Cinzel Decorative';
+    
 }
 
 h1, h2 {
@@ -21,6 +22,8 @@ h1 {
     color: #FFF;
 }
 
+
+
 @media only screen and (max-width: 1000px) {
     h1 {
         font-size: 6vw;
@@ -29,6 +32,10 @@ h1 {
 
 footer {
     background-color: antiquewhite;
+}
+
+.white {
+    color: #FFF;
 }
 
 .highlight-text {
@@ -41,6 +48,19 @@ footer {
     padding: 0px;
     margin: 0px;
     width: 100%;
+}
+
+.text-box {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    font-family: Cardo;
+    color: #FFF;
+}
+@media only screen and (max-width: 600px) {
+    .text-box {
+        width: 100%;
+    }
 }
 
 .right-banner {
