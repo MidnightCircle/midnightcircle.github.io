@@ -2,7 +2,7 @@
 
 ## Website
 
-[https://midnightcircle.github.io](https://midnightcircle.github.io)
+[https://www.midnightcircle.co.uk/](https://www.midnightcircle.co.uk/)
 
 For documentation of proposed development, see [Site Documentation](documentation/README.md).
 
