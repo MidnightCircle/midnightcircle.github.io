@@ -38,7 +38,7 @@ h4 {
 
 @media only screen and (max-width: 1000px) {
     h1 {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 }
 
@@ -70,8 +70,12 @@ footer {
     color: #404040;
 }
 
+    .light-section h1, .light-section h2 {
+        color: #404040;
+    }
+
 .list {
-    padding-left:40px;
+    padding-left: 40px;
 }
 
 .video {
@@ -246,6 +250,50 @@ textarea {
         display: none !important;
     }
 }
+
+.profile-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.profile {
+    width: 500px;
+    margin: 45px;
+}
+@media only screen and (max-width: 600px) {
+    .profile {
+        width: 100%;
+        margin: 10px;
+    }
+}
+
+.profile-pic {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    aspect-ratio: 4/5;
+    overflow: hidden;
+}
+
+.profile-pic img {
+    width: 100%;
+}
+
+.profile-text {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+    .profile-text h2 {
+        font-size: 24px;
+    }
+
+    .profile-text h3 {
+        font-size: 20px;
+    }
+    
 
 .award-container {
     display: flex;
