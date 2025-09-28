@@ -42,13 +42,39 @@ h4 {
     }
 }
 
+section {
+    margin: 0px;
+}
+
 footer {
     background-color: antiquewhite;
     color: #000;
 }
 
+.flex-two-panel {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 0px;
+}
+    .flex-two-panel > div {
+        width: 700px;
+        margin: 0px;
+    }
+    @media only screen and (max-width: 600px) {
+        .flex-panel > div {
+            width: 100%;
+            padding: 0px;
+        }
+    }
+
 .centre {
     text-align: center;
+}
+
+.justify {
+    text-align: justify;
 }
 
 .center-video {
@@ -112,6 +138,23 @@ footer {
     }
 }
 
+.image-container {
+    width: 80%;
+    margin: auto;
+    padding: 0px;
+}
+    .image-container img {
+        width: 100%;
+    }
+
+@media only screen and (max-width: 600px) {
+    .image-container {
+        width: 100%;
+        padding: 10px;
+        margin: 0px;
+    }
+}
+
 .right-banner {
     position:absolute;
     width: 40%;
@@ -136,6 +179,50 @@ footer {
     }
 @media only screen and (max-width: 600px) {
     .circular-crop {
+        border-bottom-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+}
+
+.circular-crop-alt {
+    width: 100%;
+    aspect-ratio: 2/1;
+    border-bottom-right-radius: 50% 40%;
+    border-bottom-left-radius: 50% 40%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+    .circular-crop-alt img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+    }
+
+.overlay-txt {
+    position: absolute;
+    top: 8%;
+    width: 100%;
+    font-family: Cardo; 
+    font-size: 4vw;
+    text-align: center;
+    color: white;
+}
+
+.mission-txt {
+    font-family: 'Cinzel Decorative';
+    font-size: 4vw;
+}
+
+.larger-txt {
+    font-weight: bold;
+    font-size: 5vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .circular-crop-alt {
         border-bottom-right-radius: 50%;
         border-bottom-left-radius: 50%;
     }
