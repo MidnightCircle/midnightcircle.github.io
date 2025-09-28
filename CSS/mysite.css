@@ -47,6 +47,10 @@ footer {
     color: #000;
 }
 
+.centre {
+    text-align: center;
+}
+
 .center-video {
     padding: 20px;
     width:60%;

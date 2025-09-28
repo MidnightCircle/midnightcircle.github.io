@@ -30,8 +30,8 @@ const shows = [
  */
 const whatsOn = [
     {
-        title: "A Midsummer Nightmare!",
-        link: "nightmare.html"
+        title: "Coming up...",
+        link: "coming-up.html"
     }
 ];
 
