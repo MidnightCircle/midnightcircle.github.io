@@ -1,4 +1,10 @@
-﻿body {
+﻿/*
+    ---------------------------------------------------------------------
+                                  HTML STYLES
+    ---------------------------------------------------------------------
+*/
+
+body {
     padding: 0px;
     color: #FFF;
 }
@@ -51,217 +57,6 @@ footer {
     color: #000;
 }
 
-.flex-two-panel {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 20px;
-    margin: 0px;
-}
-    .flex-two-panel > div {
-        width: 700px;
-        margin: 0px;
-    }
-    @media only screen and (max-width: 600px) {
-        .flex-panel > div {
-            width: 100%;
-            padding: 0px;
-        }
-    }
-
-.centre {
-    text-align: center;
-}
-
-.justify {
-    text-align: justify;
-}
-
-.center-video {
-    padding: 20px;
-    width:60%;
-    margin: auto;
-}
-@media only screen and (max-width: 600px) {
-    .center-video {
-        width: 100%;
-    }
-}
-
-.center-video img {
-    width: 100%;
-    height: auto;
-}
-
-.light-section {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: antiquewhite;
-    color: #404040;
-}
-
-    .light-section h1, .light-section h2 {
-        color: #404040;
-    }
-
-.list {
-    padding-left: 40px;
-}
-
-.video {
-    width:100%;
-    padding-top:50px;
-    padding-bottom:50px;
-}
-
-.highlight-text {
-    font-family: Cardo;
-    color: #FFF;
-    text-align: center;
-}
-
-.full-page-box {
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
-}
-
-.text-box {
-    width: 60%;
-    margin: auto;
-    padding: 20px;
-    font-family: Cardo;
-}
-@media only screen and (max-width: 600px) {
-    .text-box {
-        width: 100%;
-    }
-}
-
-.image-container {
-    width: 80%;
-    margin: auto;
-    padding: 0px;
-}
-    .image-container img {
-        width: 100%;
-    }
-
-@media only screen and (max-width: 600px) {
-    .image-container {
-        width: 100%;
-        padding: 10px;
-        margin: 0px;
-    }
-}
-
-.right-banner {
-    position:absolute;
-    width: 40%;
-    bottom: 15%;
-    right: 5%;
-}
-
-/* Reproduce images with circular crop at bottom */
-.circular-crop {
-    width: 100%;
-    aspect-ratio: 3/1;
-    border-bottom-right-radius: 50% 25%;
-    border-bottom-left-radius: 50% 25%;
-    overflow: hidden;
-}
-
-    .circular-crop img {
-        width: 100%;
-        height: auto;
-        object-fit: cover;
-        object-position: center;
-    }
-@media only screen and (max-width: 600px) {
-    .circular-crop {
-        border-bottom-right-radius: 50%;
-        border-bottom-left-radius: 50%;
-    }
-}
-
-.circular-crop-alt {
-    width: 100%;
-    aspect-ratio: 2/1;
-    border-bottom-right-radius: 50% 40%;
-    border-bottom-left-radius: 50% 40%;
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-}
-
-    .circular-crop-alt img {
-        width: 100%;
-        height: auto;
-        object-fit: cover;
-        object-position: center;
-    }
-
-.overlay-txt {
-    position: absolute;
-    top: 8%;
-    width: 100%;
-    font-family: Cardo; 
-    font-size: 4vw;
-    text-align: center;
-    color: white;
-}
-
-.mission-txt {
-    font-family: 'Cinzel Decorative';
-    font-size: 4vw;
-}
-
-.larger-txt {
-    font-weight: bold;
-    font-size: 5vw;
-}
-
-@media only screen and (max-width: 600px) {
-    .circular-crop-alt {
-        border-bottom-right-radius: 50%;
-        border-bottom-left-radius: 50%;
-    }
-}
-
-.show-summary-txt {
-    font-family: Cardo;
-    color: #FFF;
-    padding: 20px;
-}
-
-.show-gallery {
-    width: 80%;
-    margin: auto;
-}
-    @media only screen and (max-width: 600px) {
-        .show-gallery {
-            width: 100%;
-        }
-    }
-
-.gallery-still {
-    padding: 10px;
-}
-
-    .gallery-still img {
-        width: 100%;
-    }
-
-
-
-
-/* Override the default bootstrap behavior where horizontal description lists 
-   will truncate terms that are too long to fit in the left column 
-*/
-        .dl-horizontal dt {
-    white-space: normal;
-}
-
 /* Set width on the form input elements since they're 100% wide by default */
 input,
 select,
@@ -269,27 +64,17 @@ textarea {
     max-width: 280px;
 }
 
+/*
+    ---------------------------------------------------------------------
+                         GENERAL UTILITY CLASSES
+    ---------------------------------------------------------------------
+*/
 
-
-.logo-img {
-    width: 200px;
-    padding: 0px;
-}
-
-.burger-wrap {
-    padding: 20px;
-}
-
-.dropdown-menu {
-    width:200px;
-    background-color: var(--body-bkg-col);
-    font-size: var(--body-font-size);
-    
-}
-
-.nav-dropdown > li > a {
-    padding-top: 8px !important;
-    padding-bottom: 8px !important;
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
 }
 
 .full-img {
@@ -325,22 +110,143 @@ textarea {
     display: block !important;
 }
 
-.test {
-    border: 2px solid red;
-}
-
-.award-img {
-    width: 80%;
-    margin: auto;
-    display: block;
-    margin:20px;
-}
-
 @media only screen and (max-width: 1000px) {
     .hide-small {
         display: none !important;
     }
 }
+
+.centre {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.center-video {
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .center-video {
+        width: 100%;
+    }
+}
+
+.center-video img {
+    width: 100%;
+    height: auto;
+}
+
+.light-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+    color: #404040;
+}
+
+    .light-section h1, .light-section h2 {
+        color: #404040;
+    }
+
+.no-top-pad {
+    padding-top: 0px !important;
+}
+
+.list {
+    padding-left: 40px;
+}
+
+.video {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.highlight-text {
+    font-family: Cardo;
+    color: #FFF;
+    text-align: center;
+}
+
+.full-page-box {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.text-box {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    font-family: Cardo;
+}
+
+@media only screen and (max-width: 600px) {
+    .text-box {
+        width: 100%;
+    }
+}
+
+.image-container {
+    width: 80%;
+    margin: auto;
+    padding: 0px;
+}
+
+    .image-container img {
+        width: 100%;
+    }
+
+@media only screen and (max-width: 600px) {
+    .image-container {
+        width: 100%;
+        padding: 10px;
+        margin: 0px;
+    }
+}
+
+.right-banner {
+    position: absolute;
+    width: 40%;
+    bottom: 15%;
+    right: 5%;
+}
+
+/*
+    ---------------------------------------------------------------------
+                                 HEADER STYLES
+    ---------------------------------------------------------------------
+*/
+
+.logo-img {
+    width: 200px;
+    padding: 0px;
+}
+
+.burger-wrap {
+    padding: 20px;
+}
+
+.dropdown-menu {
+    width: 200px;
+    background-color: var(--body-bkg-col);
+    font-size: var(--body-font-size);
+}
+
+.nav-dropdown > li > a {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+/*
+    ---------------------------------------------------------------------
+                         THE MIDNIGHT CIRCLE PAGE
+    ---------------------------------------------------------------------
+*/
 
 .profile-container {
     display: flex;
@@ -352,6 +258,7 @@ textarea {
     width: 500px;
     margin: 45px;
 }
+
 @media only screen and (max-width: 600px) {
     .profile {
         width: 100%;
@@ -367,9 +274,9 @@ textarea {
     overflow: hidden;
 }
 
-.profile-pic img {
-    width: 100%;
-}
+    .profile-pic img {
+        width: 100%;
+    }
 
 .profile-text {
     width: 100%;
@@ -384,7 +291,159 @@ textarea {
     .profile-text h3 {
         font-size: 20px;
     }
-    
+
+/*
+    ---------------------------------------------------------------------
+                             OUR COMPANY PAGE
+    ---------------------------------------------------------------------
+*/
+.circular-crop-alt {
+    width: 100%;
+    aspect-ratio: 2/1;
+    border-bottom-right-radius: 50% 40%;
+    border-bottom-left-radius: 50% 40%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+    .circular-crop-alt img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+    }
+
+.overlay-txt {
+    position: absolute;
+    top: 8%;
+    width: 100%;
+    font-family: Cardo; 
+    font-size: 4.5vw;
+    text-align: center;
+    color: white;
+}
+
+.mission-txt {
+    font-family: 'Cinzel Decorative';
+    font-size: 4vw;
+}
+
+.larger-txt {
+    font-weight: bold;
+    font-size: 5vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .circular-crop-alt {
+        border-bottom-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+}
+
+/*
+    ---------------------------------------------------------------------
+                                SHOW PAGES
+    ---------------------------------------------------------------------
+*/
+
+/* 
+    Circular crop for show images
+*/
+.circular-crop {
+    width: 100%;
+    aspect-ratio: 3/1;
+    border-bottom-right-radius: 50% 25%;
+    border-bottom-left-radius: 50% 25%;
+    overflow: hidden;
+}
+
+    .circular-crop img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+    }
+
+@media only screen and (max-width: 600px) {
+    .circular-crop {
+        border-bottom-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+}
+
+.show-summary-txt {
+    font-family: Cardo;
+    color: #FFF;
+    padding: 20px;
+}
+
+.show-gallery {
+    width: 80%;
+    margin: auto;
+}
+    @media only screen and (max-width: 600px) {
+        .show-gallery {
+            width: 100%;
+        }
+    }
+
+.gallery-still {
+    padding: 10px;
+}
+
+    .gallery-still img {
+        width: 100%;
+    }
+
+
+/*
+    ---------------------------------------------------------------------
+                           CONTACT US PAGE
+    ---------------------------------------------------------------------
+*/
+
+.flex-two-panel {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 0px;
+}
+
+    .flex-two-panel > div {
+        width: 700px;
+        margin: 0px;
+    }
+
+    .flex-two-panel > div.full {
+        width: 50%;
+        margin: 0px;
+    }
+
+@media only screen and (max-width: 600px) {
+    .flex-panel > div {
+        width: 100%;
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .flex-panel > div.full {
+        width: 100%;
+        padding: 0px;
+    }
+}
+
+/*
+    ---------------------------------------------------------------------
+                               FOOTER STYLES
+    ---------------------------------------------------------------------
+*/
+
+/*
+    Awards section for footer
+*/
 
 .award-container {
     display: flex;
@@ -407,12 +466,20 @@ textarea {
             transform: translateY(-50%);
         }
 
+/*
+    Contact block for footer
+*/
+
 .contact-block {
     text-align: center;
     padding-top:20px;
     padding-bottom: 20px;
     
 }
+
+/*
+    Social media icons for footer
+*/
 
 .social-media {
 }
