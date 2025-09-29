@@ -118,6 +118,14 @@ textarea {
     padding-top: 10px;
 }
 
+.spacer-10 {
+    height: 10px;
+}
+
+.spacer-20 {
+    height: 20px;
+}
+
 .hide-small {
     display: block !important;
 }
