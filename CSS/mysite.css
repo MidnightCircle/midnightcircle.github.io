@@ -29,6 +29,11 @@ h1 {
     color: #FFF;
 }
 
+h2 {
+    font-size: 2vw;
+    color: #FFF;
+}
+
 h3, h4 {
     font-family: Cardo;
     font-weight: bold;
@@ -46,6 +51,9 @@ h4 {
     h1 {
         font-size: 8vw;
     }
+    h2 {
+        font-size: 7vw;
+    }
 }
 
 section {
@@ -54,8 +62,12 @@ section {
 
 footer {
     background-color: antiquewhite;
-    color: #000;
+    color: #404040;
 }
+
+    footer h1, footer h2 {
+        color: #404040;
+    }
 
 /* Set width on the form input elements since they're 100% wide by default */
 input,
@@ -156,6 +168,15 @@ textarea {
     padding-top: 0px !important;
 }
 
+.no-bottom-pad {
+    padding-bottom: 0px !important;
+}
+
+.border-break {
+    border-top: 3px solid #404040;
+}
+
+
 .list {
     padding-left: 40px;
 }
@@ -170,6 +191,7 @@ textarea {
     font-family: Cardo;
     color: #FFF;
     text-align: center;
+    padding: 10px;
 }
 
 .full-page-box {
@@ -181,7 +203,14 @@ textarea {
 .text-box {
     width: 60%;
     margin: auto;
-    padding: 20px;
+    padding: 10px;
+    font-family: Cardo;
+}
+
+.text-box-wide {
+    width: 95%;
+    margin: auto;
+    padding: 10px;
     font-family: Cardo;
 }
 
@@ -189,7 +218,11 @@ textarea {
     .text-box {
         width: 100%;
     }
+    .text-box-wide {
+        width: 100%;
+    }
 }
+
 
 .image-container {
     width: 80%;
@@ -416,9 +449,10 @@ textarea {
         margin: 0px;
     }
 
-    .flex-two-panel > div.full {
-        width: 50%;
+    .flex-two-panel > div.wide {
+        width: 800px;
         margin: 0px;
+        border: 2px solid black;
     }
 
 @media only screen and (max-width: 600px) {
@@ -429,7 +463,7 @@ textarea {
 }
 
 @media only screen and (max-width: 600px) {
-    .flex-panel > div.full {
+    .flex-panel > div.wide {
         width: 100%;
         padding: 0px;
     }
