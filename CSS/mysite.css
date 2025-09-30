@@ -202,6 +202,25 @@ textarea {
     padding: 10px;
 }
 
+.feature-text {
+    width: 80%;
+    font-family: Cardo;
+    font-size: 4vw;
+    color: #FFF;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media only screen and (max-width: 600px) {
+    .feature-text {
+        font-size: 5vw;
+        width: 80%;
+    }
+}
+
 .full-page-box {
     padding: 0px;
     margin: 0px;
