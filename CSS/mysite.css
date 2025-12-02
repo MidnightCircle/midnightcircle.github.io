@@ -394,6 +394,11 @@ textarea {
     font-size: 5vw;
 }
 
+.bigger-txt {
+    font-family: 'Cinzel Decorative';
+    font-size: 7vw;
+}
+
 @media only screen and (max-width: 600px) {
     .circular-crop-alt {
         border-bottom-right-radius: 50%;
